@@ -67,6 +67,7 @@
     <!-- numbering should appear.                                     -->
     <!-- For use with a book organized by part, you can set the -->
     <!--  @part-structure to "decorative" or "structural" -->
+      <exercises distinct="yes" />
       <divisions level="0"/>
 
     <!-- The next elements say how the levels deep to break up the    -->
@@ -76,6 +77,7 @@
       <projects level="0" />
       <equations level="0" />
       <footnotes level="0" />
+      <exercises level="0" />
   </numbering>
 
   <!-- LaTeX specific options: set @print="yes" to get pdf set up   -->
