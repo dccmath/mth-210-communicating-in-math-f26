@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="pp-4">
+  <title>Portfolio Problem 4</title>
+
+  <introduction>
+	<conjecture>
+		<statement>
+			<p>For all <m>a, b \in \mathbb{Z}</m>, if <m>ab \not\equiv 0 \pmod{9}</m>, then <m>a \not\equiv 0 \pmod{9}</m> and <m>b \not\equiv 0 \pmod{9}</m>.</p>
+		</statement>
+	</conjecture>
+	<conjecture>
+		<statement>
+			<p>For all <m>a, b \in \mathbb{Z}</m>, if <m>ab \equiv 0 \pmod{9}</m>, then <m>a \equiv 0 \pmod{9}</m> or <m>b \equiv 0 \pmod{9}</m>.</p>
+		</statement>
+	</conjecture>
+  </introduction>
+
+  <!-- Can also be <handout> instead of <subsection> to get a printable version -->
+
+  
+  <subsection>
+  	<title>Instructions for the draft</title>
+	<p>Upload a scanned image of your draft to the Blackboard assignment.</p>
+	
+	<p>To earn <em>math successful</em>, your draft must address <em>both</em> of the conjectures, following these instructions:
+	<ol>
+		<li><p>If a conjecture is true:</p>
+		<ul>
+			<li><p>State it as a theorem and write a proof of it in know-show format.</p></li>
+			<li><p>Generate three concrete examples that illustrate it and cover a variety of integers. Include the examples after the proof. For each, show how you know the hypothesis and conclusion are true (see the <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url> for an example of how to format these).</p></li>
+		</ul>
+		</li>
+		<li><p>If a conjecture is false:</p>
+		<ul>
+			<li><p>Say it is false and include one concrete counterexample. Use specific numbers and explain how they make the hypothesis true, but the conclusion false (see the <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url> for an example of how to format a disproof).</p></li>
+		</ul>
+		</li>
+	</ol>
+	</p>
+	<hint><p>Read each conjecture carefully! They are similar, but <em>not</em> the same in some important ways.</p></hint>
+  </subsection>
+  
+  <subsection>
+  	<title>Instructions for the writing revision</title>
+	<p>Submit a PDF of your writing revision to the Blackboard assignment.</p>
+	
+	<p>To earn <em>math &amp; writing successful</em>, your writing revision must do all of the following:</p>
+	<ol>
+		<li><p>Follow all instructions for proofs, examples, and counterexamples from the draft. Each of these should now be formatted following the writing guidelines.</p></li>
+		<li><p>Address all feedback from the draft.</p></li>
+		<li><p>Type your work in <latex />. Use the <url href="https://www.overleaf.com/read/wgbrgwbzkpkh#ab87eb">template</url>, <url href="https://www.overleaf.com/read/pkdmwpvttfvf#49a6e3">how-to guide</url>, and <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url>.</p></li>
+		<li><p>Include a <q>view only</q> link to your Overleaf document in the Blackboard submission's text field.</p></li>
+		<li><p>Follow <em>all</em> of the conventions listed below (click each one to get more details and examples):</p></li>
+	</ol>
+	
+	<p><xref ref="wc-statement" text="type-local-title" /></p>
+	
+	<p><xref ref="wc-assumptions" text="type-local-title" /></p>
+	
+	<p><xref ref="wc-proof-method" text="type-local-title" /></p>
+	
+	<p><xref ref="wc-justify" text="type-local-title" /></p>
+		
+	<p><xref ref="wc-variables" text="type-local-title" /></p>
+	
+	<p><xref ref="wc-definitions" text="type-local-title" /></p>
+	
+  </subsection>
+  
+  <subsection>
+  	<title>Instructions for excellence</title>
+	<p>To earn <em>math &amp; writing excellent</em>, thoroughly address all comments from the draft and writing revision. Then pick <em>one</em> of these and do it:
+	
+	<ol>
+		<li><title>Polish</title><p>Polish your writing so that it follows <em>all</em> of the <xref ref="pp-specs-additional" text="title" /> thoroughly, with no noticeable omissions. Click or tap the link to see all of them.</p></li>
+		<li><title>The Zero Product Property</title><p>In algebra class, you likely learned the <q>zero product property</q>. This says that if <m>xy = 0</m> then either <m>x = 0</m> or <m>y = 0</m> (you use this when factoring and solving quadratics, for example). But, that was in the real numbers! Your work above shows that the zero product property is <em>not</em> always true in modular arithmetic, and your counterexample should give you a hint of why this might be true with other moduli. To earn excellent, explain for which natural numbers <m>n</m> the following statement is true: <q>For all <m>a, b \in \mathbb{Z}</m>, if <m>ab \equiv 0 \pmod{n}</m>, then <m>a \equiv 0 \pmod{n}</m> or <m>b \equiv 0 \pmod{n}</m>.</q> This should include a clear statement of exactly which <m>n</m> it is true for, and either a proof or a clear explanation of why those <m>n</m> values work. (This is in <em>addition</em> to following all instructions for the writing revision -- in particular, your writing revision must include all required proofs, examples, and disproofs.)</p></li>
+	</ol>
+	</p>
+  </subsection>
+  
+  	<!-- <li><p>After the writing revision, you can revise once more and submit a <em>final revision</em> by the final exam. Only this final revision will count towards your final grade.</p></li> -->
+
+</section>

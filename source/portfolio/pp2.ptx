@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="pp-2">
+  <title>Portfolio Problem 2</title>
+
+  <introduction>
+  	<definition>
+		<statement>
+			An integer <m>n</m> is a <term>multiple of 3</term> provided that there exists an integer <m>k</m> such that <m>n = 3k</m>.
+		</statement>
+	</definition>
+	
+	<conjecture>
+		<statement>
+			<p>The sum of the cubes of any three consecutive integers is a multiple of 3.</p>
+		</statement>
+	</conjecture>
+	
+	<conjecture>
+		<statement>
+			<p>The sum of the cubes of any three consecutive integers is a multiple of 4.</p>
+		</statement>
+	</conjecture>
+  </introduction>
+
+  <!-- Can also be <handout> instead of <subsection> to get a printable version -->
+
+  
+  <subsection>
+  	<title>Instructions for the draft</title>
+	<p>Upload a scanned image of your draft to the Blackboard assignment.</p>
+	
+	<p>To earn <em>math successful</em>, your draft must address <em>both</em> of the conjectures, following these instructions:
+	<ol>
+		<li><p>If a conjecture is true:</p>
+		<ul>
+			<li><p>State it as a theorem and write a proof of it in know-show format.</p></li>
+			<li><p>Generate three concrete examples that illustrate it and cover a variety of integers. Include the examples after the proof. For each, show how you know the hypothesis and conclusion are true (see the <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url> for an example of how to format these).</p></li>
+		</ul>
+		</li>
+		<li><p>If a conjecture is false:</p>
+		<ul>
+			<li><p>Say it is false and include one concrete counterexample. Use specific numbers and explain how they make the hypothesis true, but the conclusion false (see the <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url> for an example of how to format a disproof).</p></li>
+		</ul>
+		</li>
+	</ol>
+	</p>
+	<hint><p>To <q>mathematize</q> this kind of theorem, create a variable that represents one of the three consecutive integers. Then how do you represent the other consecutive integers in terms of that variable? What formula can you write out to represent the sum described in the Theorem statement?</p></hint>
+  </subsection>
+  
+  <subsection>
+  	<title>Instructions for the writing revision</title>
+	<p>Submit a PDF of your writing revision to the Blackboard assignment.</p>
+	
+	<p>To earn <em>math &amp; writing successful</em>, your writing revision must do all of the following:</p>
+	<ol>
+		<li><p>Follow all instructions for proofs, examples, and counterexamples from the draft. Each of these should now be formatted following the writing guidelines.</p></li>
+		<li><p>Address all feedback from the draft.</p></li>
+		<li><p>Type your work in <latex />. Use the <url href="https://www.overleaf.com/read/wgbrgwbzkpkh#ab87eb">template</url>, <url href="https://www.overleaf.com/read/pkdmwpvttfvf#49a6e3">how-to guide</url>, and <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url>.</p></li>
+		<li><p>Include a <q>view only</q> link to your Overleaf document in the Blackboard submission's text field.</p></li>
+		<li><p>Follow <em>all</em> of the conventions listed below (click each one to get more details and examples):</p></li>
+	</ol>
+	
+	<p><xref ref="wc-statement" text="type-local-title" /></p>
+	
+	<p><xref ref="wc-assumptions" text="type-local-title" /></p>
+	
+	<p><xref ref="wc-proof-method" text="type-local-title" /></p>
+	
+	<p><xref ref="wc-justify" text="type-local-title" /></p>
+		
+	<p><xref ref="wc-variables" text="type-local-title" /></p>
+	
+	<p><xref ref="wc-definitions" text="type-local-title" /></p>
+	
+  </subsection>
+  
+  <subsection>
+  	<title>Instructions for excellence</title>
+	<p>To earn <em>math &amp; writing excellent</em>, thoroughly address all comments from the draft and writing revision. Then pick <em>one</em> of these and do it:
+	
+	<ol>
+		<li><title>Polish</title><p>Polish your writing so that it follows <em>all</em> of the <xref ref="pp-specs-additional" text="title" /> thoroughly, with no noticeable omissions. Click or tap the link to see all of them.</p></li>
+		<li><title>Generalize</title><p>While proving or disproving the two conjectures, you should have noticed some patterns in the algebra. Create and prove a more general theorem that explains exactly which numbers the sum is, or isn't, a multiple of. You may need to add additional hypotheses or otherwise clarify your theorem statement. (This is in <em>addition</em> to following all instructions for the writing revision -- in particular, your writing revision must include all required proofs, examples, and disproofs.)</p></li>
+	</ol>
+	</p>
+  </subsection>
+  
+  	<!-- <li><p>After the writing revision, you can revise once more and submit a <em>final revision</em> by the final exam. Only this final revision will count towards your final grade.</p></li> -->
+
+</section>

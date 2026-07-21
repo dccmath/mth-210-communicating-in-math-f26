@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="pp-6">
+  <title>Portfolio Problem 6</title>
+
+  <introduction>
+	<conjecture>
+		<statement>
+			<p>Assume that <m>f_{1}, f_{2}, \ldots, f_{n}, \ldots</m> are Fibonacci numbers. Prove that <m>f_{1} + f_{3} + \ldots + f_{2n-1} = f_{2n}</m>. Use induction.</p>
+		</statement>
+	</conjecture>
+	<p><em>Special instructions:</em> If you choose this conjecture, first rephrase it as a fully correct theorem statement. It needs some work!</p>
+	
+	<conjecture>
+		<statement>
+			<p> Let <m>n</m> be a natural number and let <m>f(x) = \dfrac{-5}{3x+77}</m>. Then the <m>n</m>th derivative of <m>f(x)</m> is <m>f^{(n)}(x) = \ldots</m></p>
+		</statement>
+	</conjecture>
+	<p><em>Special instructions:</em> If you choose this conjecture, complete the theorem statement with an explicit (i.e. <em>not</em> recursive) formula for <m>f^{(n)}(x)</m> and use induction to prove your conjecture.</p>
+  </introduction>
+
+  <!-- Can also be <handout> instead of <subsection> to get a printable version -->
+
+  
+  <subsection>
+  	<title>Instructions for the draft</title>
+	<p>Upload a scanned image of your draft to the Blackboard assignment.</p>
+	
+	<p>To earn <em>math successful</em>, your draft must do all of the following:</p>
+	<ol>
+		<li><p><em>Pick ONE conjecture and prove it. Ignore the other one.</em> Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication specifications nor typing them up yet.</p></li>
+		<li><p><em>Follow the special instructions for your conjecture.</em></p></li>
+		<li><p><em>Include examples.</em> Include at least 3 examples. These are separate from the base case of the induction proof and should be stated after the proof. See the <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url> for an example of how to format these.</p></li>
+	</ol>
+  </subsection>
+  
+  <subsection>
+  	<title>Instructions for the writing revision</title>
+	<p>Submit a PDF of your writing revision to the Blackboard assignment.</p>
+	
+	<p>To earn <em>math &amp; writing successful</em>, your writing revision must do all of the following:</p>
+	<ol>
+		<li><p>Include a proof and examples, as in the draft.</p></li>
+		<li><p>Put a special focus on demonstrating that you understand what the predicate, assumptions, and conclusions mean. Make sure that what you <em>write</em> has the correct <em>meaning</em>. This includes using predicate notation (<q><m>P(n)</m></q>) and quantifiers carefully and correctly. Also clearly and correctly state what you are <em>assuming</em> and what you are <em>going to prove</em> in the inductive step.</p></li>
+		<li><p>To help with writing, there are many sample induction proofs, including examples using Fibonacci numbers and derivatives, in the daily folders for 4.1, 4.2, and 4.3. There is also a template that you can follow for all induction proofs in the Portfolio folder.</p></li>
+		<li><p>Address all feedback from the draft.</p></li>
+		<li><p>Type your work in <latex />. Use the <url href="https://www.overleaf.com/read/wgbrgwbzkpkh#ab87eb">template</url>, <url href="https://www.overleaf.com/read/pkdmwpvttfvf#49a6e3">how-to guide</url>, and <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url>.</p></li>
+		<li><p>Include a <q>view only</q> link to your Overleaf document in the Blackboard submission's text field.</p></li>
+		<li><p>Follow <em>all</em> of the conventions listed below (click each one to get more details and examples):</p></li>
+	</ol>
+	
+	<p><xref ref="wc-statement" text="type-local-title" /></p>
+	
+	<p><xref ref="wc-assumptions" text="type-local-title" /></p>
+	
+	<p><xref ref="wc-proof-method" text="type-local-title" /></p>
+	
+	<p><xref ref="wc-justify" text="type-local-title" /></p>
+		
+	<p><xref ref="wc-variables" text="type-local-title" /></p>
+	
+	<p><xref ref="wc-definitions" text="type-local-title" /></p>
+	
+  </subsection>
+  
+  <subsection>
+  	<title>Instructions for excellence</title>
+	<p>To earn <em>math &amp; writing excellent</em>, thoroughly address all comments from the draft and writing revision. Then do this:
+	
+	<ol>
+		<li><title>Polish</title><p>Polish your writing so that it follows <em>all</em> of the <xref ref="pp-specs-additional" text="title" /> thoroughly, with no noticeable omissions. Click or tap the link to see all of them.</p></li>
+	</ol>
+	</p>
+  </subsection>
+  
+  	<!-- <li><p>After the writing revision, you can revise once more and submit a <em>final revision</em> by the final exam. Only this final revision will count towards your final grade.</p></li> -->
+
+</section>

@@ -32,11 +32,18 @@
 
 	  <xi:include href="./portfolio/specs.ptx"/>
       <xi:include href="./portfolio/pp1.ptx"/>
-      <!-- etc. -->
+      <xi:include href="./portfolio/pp2.ptx"/>
+      <xi:include href="./portfolio/pp3.ptx"/>
+      <xi:include href="./portfolio/pp4.ptx"/>
+      <xi:include href="./portfolio/pp5.ptx"/>
+      <xi:include href="./portfolio/pp6.ptx"/>
+      <xi:include href="./portfolio/pp7.ptx"/>
+      <xi:include href="./portfolio/pp8.ptx"/>
+      <xi:include href="./portfolio/pp9.ptx"/>
 
     </chapter>
 
-
+	<!--
     <chapter xml:id="activities">
       <title>In-Class Activities</title>
 
@@ -46,25 +53,17 @@
         </p>
       </introduction>
 
-      <!-- Remove the example and replace with your own activities -->
       <xi:include href="./activities/01-intro-activity.ptx"/>
 
-      <!-- Add more xi:include files here to include them in the main course -->
     </chapter>
+    -->
 
+	<!--
     <chapter xml:id="handouts">
       <title>Handouts</title>
-      <!-- Include handouts -->
-      <!--<xi:include href="./handouts/handout-filename.ptx"/>-->
+      <xi:include href="./handouts/handout-filename.ptx"/>
     </chapter>
-
-    <chapter xml:id="homework">
-      <title>Homework</title>
-
-      <!-- Include homework files -->
-      <!--<xi:include href="./homework/homework01.ptx"/>-->
-
-    </chapter>
+    -->
 
     <!-- Include additional chapters for other categories -->
 

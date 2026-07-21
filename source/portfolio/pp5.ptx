@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="pp-5">
+  <title>Portfolio Problem 5 - Team project</title>
+
+  <introduction>
+	<theorem xml:id="thm-pp5-1">
+		<statement>
+			<p>For each integer <m>a</m>, if <m>7 \nmid a</m> then <m>a \equiv 1, 2, 3, 4, 5, \text{ or } 6 \pmod{7}</m>.</p>
+		</statement>
+	</theorem>
+	<hint><p>What does the Division Algorithm tell you about <m>a</m> in this situation?</p></hint>
+	
+	<theorem xml:id="thm-pp5-2">
+		<statement>
+			<p>For each integer <m>a</m>, if <m>7 \mid a^{2}</m> then <m>7 \mid a</m>.</p>
+		</statement>
+	</theorem>
+	<hint><p>The previous theorem will be helpful -- be clear and precise about how you use it. Here's a handy template: <q>Because (statement you know is true), by <xref ref="thm-pp5-1" />, (conclusion from the theorem).</q></p></hint>
+	
+	<theorem xml:id="thm-pp5-3">
+		<statement>
+			<p>The real number <m>\sqrt{7}</m> is irrational.</p>
+		</statement>
+	</theorem>
+	<hint><p>We completed a similar proof in Section 3.3. Feel free to use it as a starting point -- but be very careful to understand where this proof must be different! Look for ways to use <xref ref="thm-pp5-2" /> in the proof of <xref ref="thm-pp5-3" />.</p></hint>
+  </introduction>
+
+  <!-- Can also be <handout> instead of <subsection> to get a printable version -->
+
+  
+  <subsection>
+  	<title>Instructions for the draft</title>
+	
+	<p>To earn <em>math successful</em>, your group must do all of the following:</p>
+	<ol>
+		<li><p>Work together as a team to find a proof for all three theorems. Know-show tables are fine.</p></li>
+		<li><p>Put them all in one document, but write a separate theorem statement and proof for each.</p></li>
+		<li><p>Include at least two examples that illustrate <xref ref="thm-pp5-1" />, and two more for <xref ref="thm-pp5-2" />. You don't need examples for <xref ref="thm-pp5-3" />. Put the examples outside of the proofs (see the <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url> for an example of how to format these).</p></li>
+		<li><p><em>One</em> group member should submit a scanned image of your draft to the Blackboard assignment.</p></li>
+	</ol>
+  </subsection>
+  
+  <subsection>
+  	<title>Instructions for the writing revision</title>
+	
+	<p>To earn <em>math &amp; writing successful</em>, you must do all of the following:</p>
+	
+	<p><em>Individually</em>, submit your project reflection (link is on Blackboard). This must be completed in order to earn your individual portfolio grade.</p>
+	
+	<p>As a group, do all of these:</p>
+	
+	<ol>
+		<li><p>Include all proofs and examples required, as in the draft.</p></li>
+		<li><p>Address all feedback from the draft.</p></li>
+		<li><p>Type your work in <latex />. Use the <url href="https://www.overleaf.com/read/wgbrgwbzkpkh#ab87eb">template</url>, <url href="https://www.overleaf.com/read/pkdmwpvttfvf#49a6e3">how-to guide</url>, and <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url>.</p></li>
+		<li><p><em>Do not</em> include a <q>view only</q> because Dr. Clark will share an Overleaf document with your team (so I'll already have access to it).</p></li>
+		<li><p><em>One</em> group member should submit a PDF of your writing revision to the Blackboard assignment.</p></li>
+		<li><p>Follow <em>all</em> of the conventions listed below (click each one to get more details and examples):</p></li>
+	</ol>
+	
+	<p><xref ref="wc-statement" text="type-local-title" /></p>
+	
+	<p><xref ref="wc-assumptions" text="type-local-title" /></p>
+	
+	<p><xref ref="wc-proof-method" text="type-local-title" /></p>
+	
+	<p><xref ref="wc-justify" text="type-local-title" /></p>
+		
+	<p><xref ref="wc-variables" text="type-local-title" /></p>
+	
+	<p><xref ref="wc-definitions" text="type-local-title" /></p>
+	
+  </subsection>
+  
+  <subsection>
+  	<title>Instructions for excellence</title>
+	<p>To earn <em>math &amp; writing excellent</em>, thoroughly address all comments from the draft and writing revision. Then do the following:
+	
+	<ol>
+		<li><title>Polish</title><p>Polish your writing so that it follows <em>all</em> of the <xref ref="pp-specs-additional" text="title" /> thoroughly, with no noticeable omissions. Click or tap the link to see all of them.</p></li>
+	</ol>
+	</p>
+  </subsection>
+  
+  	<!-- <li><p>After the writing revision, you can revise once more and submit a <em>final revision</em> by the final exam. Only this final revision will count towards your final grade.</p></li> -->
+
+</section>
