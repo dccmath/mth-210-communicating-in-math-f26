@@ -187,7 +187,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Portfolio Problem 1",
-  "body": " Portfolio Problem 1     If is an even integer, then is an odd integer.       Instructions for the draft  Upload a scanned image of your draft on Blackboard by...  To earn math successful , your draft must do all of the following:   Prove Theorem 1 using a know-show table or similar format. Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication specifications nor typing them up yet.  Include examples. Substitute in a variety of appropriate values for to see how this theorem works. Include at least 3 examples, covering a variety of -values. For each, show how you know the hypothesis and conclusion are true (see the sample portfolio solution for an example of how to format these).     Instructions for the writing revision  Submit a PDF of your writing revision on Blackboard by...  To earn math & writing successful , your writing revision must do all of the following:   Include a formal proof of Theorem 1.  Include examples, same as in the draft.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Include a view only link to your Overleaf document in the Blackboard submission's text field.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , do all of these (in the writing revision or later):   Thoroughly address all comments from the draft and writing revision.  Polish your writing so that it follows all of the thoroughly, with no noticeable omissions. Click or tap the link to see all of them. (In future portfolios, you'll have other options for how to earn excellent . This time, your goal is to show that you can follow all of the conventions thoroughly.)      "
+  "body": " Portfolio Problem 1     If is an even integer, then is an odd integer.       Instructions for the draft  Upload a scanned image of your draft to the Blackboard assignment.  To earn math successful , your draft must do all of the following:   Prove Theorem 1 using a know-show table or similar format. Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication specifications nor typing them up yet.  Include examples. Substitute in a variety of appropriate values for to see how this theorem works. Include at least 3 examples, covering a variety of -values. For each, show how you know the hypothesis and conclusion are true (see the sample portfolio solution for an example of how to format these).     Instructions for the writing revision  Submit a PDF of your writing revision to the Blackboard assignment.  To earn math & writing successful , your writing revision must do all of the following:   Include a formal proof of Theorem 1.  Include examples, same as in the draft.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Include a view only link to your Overleaf document in the Blackboard submission's text field.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , do all of these (in the writing revision or later):   Thoroughly address all comments from the draft and writing revision.  Polish your writing so that it follows all of the thoroughly, with no noticeable omissions. Click or tap the link to see all of them. (In future portfolios, you'll have other options for how to earn excellent . This time, your goal is to show that you can follow all of the conventions thoroughly.)      "
 },
 {
   "id": "pp-1-2-1",
@@ -199,40 +199,202 @@ var ptx_lunr_docs = [
   "body": "  If is an even integer, then is an odd integer.   "
 },
 {
-  "id": "activity-01-intro-activity",
+  "id": "pp-2",
   "level": "1",
-  "url": "activity-01-intro-activity.html",
-  "type": "Worksheet",
+  "url": "pp-2.html",
+  "type": "Section",
   "number": "",
-  "title": "Introduction Activity",
-  "body": " Introduction Activity    This is the introduction to the activity.      This is the first exercise.    "
+  "title": "Portfolio Problem 2",
+  "body": " Portfolio Problem 2    An integer is a multiple of 3 provided that there exists an integer such that .     The sum of the cubes of any three consecutive integers is a multiple of 3.      The sum of the cubes of any three consecutive integers is a multiple of 4.       Instructions for the draft  Upload a scanned image of your draft to the Blackboard assignment.  To earn math successful , your draft must address both of the conjectures, following these instructions:  If a conjecture is true:   State it as a theorem and write a proof of it in know-show format.  Generate three concrete examples that illustrate it and cover a variety of integers. Include the examples after the proof. For each, show how you know the hypothesis and conclusion are true (see the sample portfolio solution for an example of how to format these).    If a conjecture is false:   Say it is false and include one concrete counterexample. Use specific numbers and explain how they make the hypothesis true, but the conclusion false (see the sample portfolio solution for an example of how to format a disproof).      To mathematize this kind of theorem, create a variable that represents one of the three consecutive integers. Then how do you represent the other consecutive integers in terms of that variable? What formula can you write out to represent the sum described in the Theorem statement?    Instructions for the writing revision  Submit a PDF of your writing revision to the Blackboard assignment.  To earn math & writing successful , your writing revision must do all of the following:   Follow all instructions for proofs, examples, and counterexamples from the draft. Each of these should now be formatted following the writing guidelines.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Include a view only link to your Overleaf document in the Blackboard submission's text field.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , thoroughly address all comments from the draft and writing revision. Then pick one of these and do it:  Polish Polish your writing so that it follows all of the thoroughly, with no noticeable omissions. Click or tap the link to see all of them.  Generalize While proving or disproving the two conjectures, you should have noticed some patterns in the algebra. Create and prove a more general theorem that explains exactly which numbers the sum is, or isn't, a multiple of. You may need to add additional hypotheses or otherwise clarify your theorem statement. (This is in addition to following all instructions for the writing revision -- in particular, your writing revision must include all required proofs, examples, and disproofs.)      "
 },
 {
-  "id": "activity-01-intro-activity-3",
+  "id": "pp-2-2-1",
   "level": "2",
-  "url": "activity-01-intro-activity.html#activity-01-intro-activity-3",
-  "type": "Worksheet Exercise",
-  "number": "1",
+  "url": "pp-2.html#pp-2-2-1",
+  "type": "Definition",
+  "number": "2",
   "title": "",
-  "body": "  This is the first exercise.   "
+  "body": " An integer is a multiple of 3 provided that there exists an integer such that .  "
 },
 {
-  "id": "handouts",
-  "level": "1",
-  "url": "handouts.html",
-  "type": "Chapter",
-  "number": "",
-  "title": "Handouts",
-  "body": " Handouts    "
+  "id": "pp-2-2-2",
+  "level": "2",
+  "url": "pp-2.html#pp-2-2-2",
+  "type": "Conjecture",
+  "number": "3",
+  "title": "",
+  "body": "  The sum of the cubes of any three consecutive integers is a multiple of 3.   "
 },
 {
-  "id": "homework",
+  "id": "pp-2-2-3",
+  "level": "2",
+  "url": "pp-2.html#pp-2-2-3",
+  "type": "Conjecture",
+  "number": "4",
+  "title": "",
+  "body": "  The sum of the cubes of any three consecutive integers is a multiple of 4.   "
+},
+{
+  "id": "pp-3",
   "level": "1",
-  "url": "homework.html",
-  "type": "Chapter",
+  "url": "pp-3.html",
+  "type": "Section",
   "number": "",
-  "title": "Homework",
-  "body": " Homework    "
+  "title": "Portfolio Problem 3",
+  "body": " Portfolio Problem 3     Let be a three digit natural number with hundreds digit , tens digit , and ones digit . The number is divisible by 11 if and only if is divisible by 11.       Instructions for the draft  Upload a scanned image of your draft to the Blackboard assignment.  To earn math successful , your draft must do all of the following:   Prove using a know-show table or similar format. Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication specifications nor typing them up yet.  Important: This is a biconditional statement! Write a separet know-show table for each direction separately. When you do, be careful to include the correct hypotheses for each.  Include examples. Include at least 2 examples for each direction, covering a variety of -values. For each, show how you know the hypothesis and conclusion are true (see the sample portfolio solution for an example of how to format these).   When we write a three digit number such as 418, what does the 4 represent? What does the 1 represent? What about the 8? How can you write this out in one formula of the form ?  For each direction, write out the hypotheses very carefully in the form of an equation. What could you add or subtract from both sides to obtain the kind of equation you need for your conclusion?     Instructions for the writing revision  Submit a PDF of your writing revision to the Blackboard assignment.  To earn math & writing successful , your writing revision must do all of the following:   Include a formal proof of . You should prove both directions within a single proof. Carefully state and use the hypotheses in each direction. See the sample proofs from class for help.  The let sentence at the beginning gives you a set of hypotheses that apply in both directions of the biconditional. Assume them once at the beginning of the whole proof, and use them in both directions.  Include examples of both directions, same as in the draft.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Include a view only link to your Overleaf document in the Blackboard submission's text field.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , thoroughly address all comments from the draft and writing revision. Then pick one of these and do it:  Polish Polish your writing so that it follows all of the thoroughly, with no noticeable omissions. Click or tap the link to see all of them.  Challenge: Use modular arithmetic Rework your proof so that it uses (only) modular arithmetic, not divisibility. That is, you should find a way to do the entire proof with modular arithmetic and arithmetic shortcuts. This should be relatively short and slick. If you're not sure, run it past Dr. Clark first! (This is in addition to following all instructions for the writing revision -- in particular, your writing revision must include all required examples too.)      "
+},
+{
+  "id": "thm-pp3",
+  "level": "2",
+  "url": "pp-3.html#thm-pp3",
+  "type": "Theorem",
+  "number": "5",
+  "title": "",
+  "body": "  Let be a three digit natural number with hundreds digit , tens digit , and ones digit . The number is divisible by 11 if and only if is divisible by 11.   "
+},
+{
+  "id": "pp-4",
+  "level": "1",
+  "url": "pp-4.html",
+  "type": "Section",
+  "number": "",
+  "title": "Portfolio Problem 4",
+  "body": " Portfolio Problem 4     For all , if , then and .      For all , if , then or .       Instructions for the draft  Upload a scanned image of your draft to the Blackboard assignment.  To earn math successful , your draft must address both of the conjectures, following these instructions:  If a conjecture is true:   State it as a theorem and write a proof of it in know-show format.  Generate three concrete examples that illustrate it and cover a variety of integers. Include the examples after the proof. For each, show how you know the hypothesis and conclusion are true (see the sample portfolio solution for an example of how to format these).    If a conjecture is false:   Say it is false and include one concrete counterexample. Use specific numbers and explain how they make the hypothesis true, but the conclusion false (see the sample portfolio solution for an example of how to format a disproof).      Read each conjecture carefully! They are similar, but not the same in some important ways.    Instructions for the writing revision  Submit a PDF of your writing revision to the Blackboard assignment.  To earn math & writing successful , your writing revision must do all of the following:   Follow all instructions for proofs, examples, and counterexamples from the draft. Each of these should now be formatted following the writing guidelines.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Include a view only link to your Overleaf document in the Blackboard submission's text field.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , thoroughly address all comments from the draft and writing revision. Then pick one of these and do it:  Polish Polish your writing so that it follows all of the thoroughly, with no noticeable omissions. Click or tap the link to see all of them.  The Zero Product Property In algebra class, you likely learned the zero product property . This says that if then either or (you use this when factoring and solving quadratics, for example). But, that was in the real numbers! Your work above shows that the zero product property is not always true in modular arithmetic, and your counterexample should give you a hint of why this might be true with other moduli. To earn excellent, explain for which natural numbers the following statement is true: For all , if , then or . This should include a clear statement of exactly which it is true for, and either a proof or a clear explanation of why those values work. (This is in addition to following all instructions for the writing revision -- in particular, your writing revision must include all required proofs, examples, and disproofs.)      "
+},
+{
+  "id": "pp-4-2-1",
+  "level": "2",
+  "url": "pp-4.html#pp-4-2-1",
+  "type": "Conjecture",
+  "number": "6",
+  "title": "",
+  "body": "  For all , if , then and .   "
+},
+{
+  "id": "pp-4-2-2",
+  "level": "2",
+  "url": "pp-4.html#pp-4-2-2",
+  "type": "Conjecture",
+  "number": "7",
+  "title": "",
+  "body": "  For all , if , then or .   "
+},
+{
+  "id": "pp-5",
+  "level": "1",
+  "url": "pp-5.html",
+  "type": "Section",
+  "number": "",
+  "title": "Portfolio Problem 5 - Team project",
+  "body": " Portfolio Problem 5 - Team project     For each integer , if then .    What does the Division Algorithm tell you about in this situation?    For each integer , if then .    The previous theorem will be helpful -- be clear and precise about how you use it. Here's a handy template: Because (statement you know is true), by , (conclusion from the theorem).    The real number is irrational.    We completed a similar proof in Section 3.3. Feel free to use it as a starting point -- but be very careful to understand where this proof must be different! Look for ways to use in the proof of .     Instructions for the draft  To earn math successful , your group must do all of the following:   Work together as a team to find a proof for all three theorems. Know-show tables are fine.  Put them all in one document, but write a separate theorem statement and proof for each.  Include at least two examples that illustrate , and two more for . You don't need examples for . Put the examples outside of the proofs (see the sample portfolio solution for an example of how to format these).  One group member should submit a scanned image of your draft to the Blackboard assignment.     Instructions for the writing revision  To earn math & writing successful , you must do all of the following:  Individually , submit your project reflection (link is on Blackboard). This must be completed in order to earn your individual portfolio grade.  As a group, do all of these:   Include all proofs and examples required, as in the draft.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Do not include a view only because Dr. Clark will share an Overleaf document with your team (so I'll already have access to it).  One group member should submit a PDF of your writing revision to the Blackboard assignment.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , thoroughly address all comments from the draft and writing revision. Then do the following:  Polish Polish your writing so that it follows all of the thoroughly, with no noticeable omissions. Click or tap the link to see all of them.      "
+},
+{
+  "id": "thm-pp5-1",
+  "level": "2",
+  "url": "pp-5.html#thm-pp5-1",
+  "type": "Theorem",
+  "number": "8",
+  "title": "",
+  "body": "  For each integer , if then .   "
+},
+{
+  "id": "thm-pp5-2",
+  "level": "2",
+  "url": "pp-5.html#thm-pp5-2",
+  "type": "Theorem",
+  "number": "9",
+  "title": "",
+  "body": "  For each integer , if then .   "
+},
+{
+  "id": "thm-pp5-3",
+  "level": "2",
+  "url": "pp-5.html#thm-pp5-3",
+  "type": "Theorem",
+  "number": "10",
+  "title": "",
+  "body": "  The real number is irrational.   "
+},
+{
+  "id": "pp-6",
+  "level": "1",
+  "url": "pp-6.html",
+  "type": "Section",
+  "number": "",
+  "title": "Portfolio Problem 6",
+  "body": " Portfolio Problem 6     Assume that are Fibonacci numbers. Prove that . Use induction.    Special instructions: If you choose this conjecture, first rephrase it as a fully correct theorem statement. It needs some work!    Let be a natural number and let . Then the th derivative of is    Special instructions: If you choose this conjecture, complete the theorem statement with an explicit (i.e. not recursive) formula for and use induction to prove your conjecture.     Instructions for the draft  Upload a scanned image of your draft to the Blackboard assignment.  To earn math successful , your draft must do all of the following:   Pick ONE conjecture and prove it. Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication specifications nor typing them up yet.  Follow the special instructions for your conjecture.  Include examples. Include at least 3 examples. These are separate from the base case of the induction proof and should be stated after the proof. See the sample portfolio solution for an example of how to format these.     Instructions for the writing revision  Submit a PDF of your writing revision to the Blackboard assignment.  To earn math & writing successful , your writing revision must do all of the following:   Include a proof and examples, as in the draft.  Put a special focus on demonstrating that you understand what the predicate, assumptions, and conclusions mean. Make sure that what you write has the correct meaning . This includes using predicate notation ( ) and quantifiers carefully and correctly. Also clearly and correctly state what you are assuming and what you are going to prove in the inductive step.  To help with writing, there are many sample induction proofs, including examples using Fibonacci numbers and derivatives, in the daily folders for 4.1, 4.2, and 4.3. There is also a template that you can follow for all induction proofs in the Portfolio folder.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Include a view only link to your Overleaf document in the Blackboard submission's text field.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , thoroughly address all comments from the draft and writing revision. Then do this:  Polish Polish your writing so that it follows all of the thoroughly, with no noticeable omissions. Click or tap the link to see all of them.      "
+},
+{
+  "id": "pp-6-2-1",
+  "level": "2",
+  "url": "pp-6.html#pp-6-2-1",
+  "type": "Conjecture",
+  "number": "11",
+  "title": "",
+  "body": "  Assume that are Fibonacci numbers. Prove that . Use induction.   "
+},
+{
+  "id": "pp-6-2-3",
+  "level": "2",
+  "url": "pp-6.html#pp-6-2-3",
+  "type": "Conjecture",
+  "number": "12",
+  "title": "",
+  "body": "  Let be a natural number and let . Then the th derivative of is   "
+},
+{
+  "id": "pp-7",
+  "level": "1",
+  "url": "pp-7.html",
+  "type": "Section",
+  "number": "",
+  "title": "Portfolio Problem 7",
+  "body": " Portfolio Problem 7     Statement.       Instructions for the draft  Upload a scanned image of your draft to the Blackboard assignment.  To earn math successful , your draft must do all of the following:   Prove Theorem X using a know-show table or similar format. Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication specifications nor typing them up yet.  Include examples. Substitute in a variety of appropriate values for to see how this theorem works. Include at least 3 examples, covering a variety of -values. For each, show how you know the hypothesis and conclusion are true (see the sample portfolio solution for an example of how to format these).     Instructions for the writing revision  Submit a PDF of your writing revision to the Blackboard assignment.  To earn math & writing successful , your writing revision must do all of the following:   Include a formal proof of Theorem X.  Include examples, same as in the draft.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Include a view only link to your Overleaf document in the Blackboard submission's text field.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , thoroughly address all comments from the draft and writing revision. Then pick one of these and do it:  Polish Polish your writing so that it follows all of the thoroughly, with no noticeable omissions. Click or tap the link to see all of them.  Generalize Instructions here (This is in addition to following all instructions for the writing revision -- in particular, your writing revision must include all required proofs, examples, and disproofs.)      "
+},
+{
+  "id": "pp-7-2-1",
+  "level": "2",
+  "url": "pp-7.html#pp-7-2-1",
+  "type": "Theorem",
+  "number": "13",
+  "title": "",
+  "body": "  Statement.   "
+},
+{
+  "id": "pp-8",
+  "level": "1",
+  "url": "pp-8.html",
+  "type": "Section",
+  "number": "",
+  "title": "Portfolio Problem 8",
+  "body": " Portfolio Problem 8     Statement.       Instructions for the draft  Upload a scanned image of your draft to the Blackboard assignment.  To earn math successful , your draft must do all of the following:   Prove Theorem X using a know-show table or similar format. Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication specifications nor typing them up yet.  Include examples. Substitute in a variety of appropriate values for to see how this theorem works. Include at least 3 examples, covering a variety of -values. For each, show how you know the hypothesis and conclusion are true (see the sample portfolio solution for an example of how to format these).     Instructions for the writing revision  Submit a PDF of your writing revision to the Blackboard assignment.  To earn math & writing successful , your writing revision must do all of the following:   Include a formal proof of Theorem X.  Include examples, same as in the draft.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Include a view only link to your Overleaf document in the Blackboard submission's text field.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , thoroughly address all comments from the draft and writing revision. Then pick one of these and do it:  Polish Polish your writing so that it follows all of the thoroughly, with no noticeable omissions. Click or tap the link to see all of them.  Generalize Instructions here (This is in addition to following all instructions for the writing revision -- in particular, your writing revision must include all required proofs, examples, and disproofs.)      "
+},
+{
+  "id": "pp-8-2-1",
+  "level": "2",
+  "url": "pp-8.html#pp-8-2-1",
+  "type": "Theorem",
+  "number": "14",
+  "title": "",
+  "body": "  Statement.   "
+},
+{
+  "id": "pp-9",
+  "level": "1",
+  "url": "pp-9.html",
+  "type": "Section",
+  "number": "",
+  "title": "Portfolio Problem 9",
+  "body": " Portfolio Problem 9     Statement.       Instructions for the draft  Upload a scanned image of your draft to the Blackboard assignment.  To earn math successful , your draft must do all of the following:   Prove Theorem X using a know-show table or similar format. Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication specifications nor typing them up yet.  Include examples. Substitute in a variety of appropriate values for to see how this theorem works. Include at least 3 examples, covering a variety of -values. For each, show how you know the hypothesis and conclusion are true (see the sample portfolio solution for an example of how to format these).     Instructions for the writing revision  Submit a PDF of your writing revision to the Blackboard assignment.  To earn math & writing successful , your writing revision must do all of the following:   Include a formal proof of Theorem X.  Include examples, same as in the draft.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Include a view only link to your Overleaf document in the Blackboard submission's text field.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , thoroughly address all comments from the draft and writing revision. Then pick one of these and do it:  Polish Polish your writing so that it follows all of the thoroughly, with no noticeable omissions. Click or tap the link to see all of them.  Generalize Instructions here (This is in addition to following all instructions for the writing revision -- in particular, your writing revision must include all required proofs, examples, and disproofs.)      "
+},
+{
+  "id": "pp-9-2-1",
+  "level": "2",
+  "url": "pp-9.html#pp-9-2-1",
+  "type": "Theorem",
+  "number": "15",
+  "title": "",
+  "body": "  Statement.   "
 }
 ]
 
