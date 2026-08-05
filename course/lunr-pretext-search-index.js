@@ -1,24 +1,6 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "syllabus",
-  "level": "1",
-  "url": "syllabus.html",
-  "type": "Section",
-  "number": "",
-  "title": "Syllabus",
-  "body": " Syllabus        Course Information  This is the syllabus for course name (MATH xxx, section xxx) for [term] 20xx. It is a [n] credit course.    Instructor  Prof. Lastname, Office Location, prof.lastname@example.edu .    Student Hours  TBD    Class meets  course times and location.    Course Description  course description from catalog    Prerequisite  list of prerequisites    Textbook and course materials   textbook name by textbook author.       Course Overview        Assessments and Grades     "
-},
-{
-  "id": "sec-course-info-2",
-  "level": "2",
-  "url": "syllabus.html#sec-course-info-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "course name (MATH xxx, section xxx) "
-},
-{
   "id": "pp-specs",
   "level": "1",
   "url": "pp-specs.html",
@@ -322,7 +304,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Portfolio Problem 6",
-  "body": " Portfolio Problem 6     Assume that are Fibonacci numbers. Prove that . Use induction.    Special instructions: If you choose this conjecture, first rephrase it as a fully correct theorem statement. It needs some work!    Let be a natural number and let . Then the th derivative of is    Special instructions: If you choose this conjecture, complete the theorem statement with an explicit (i.e. not recursive) formula for and use induction to prove your conjecture.     Instructions for the draft  Upload a scanned image of your draft to the Blackboard assignment.  To earn math successful , your draft must do all of the following:   Pick ONE conjecture and prove it. Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication specifications nor typing them up yet.  Follow the special instructions for your conjecture.  Include examples. Include at least 3 examples. These are separate from the base case of the induction proof and should be stated after the proof. See the sample portfolio solution for an example of how to format these.     Instructions for the writing revision  Submit a PDF of your writing revision to the Blackboard assignment.  To earn math & writing successful , your writing revision must do all of the following:   Include a proof and examples, as in the draft.  Put a special focus on demonstrating that you understand what the predicate, assumptions, and conclusions mean. Make sure that what you write has the correct meaning . This includes using predicate notation ( ) and quantifiers carefully and correctly. Also clearly and correctly state what you are assuming and what you are going to prove in the inductive step.  To help with writing, there are many sample induction proofs, including examples using Fibonacci numbers and derivatives, in the daily folders for 4.1, 4.2, and 4.3. There is also a template that you can follow for all induction proofs in the Portfolio folder.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Include a view only link to your Overleaf document in the Blackboard submission's text field.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , thoroughly address all comments from the draft and writing revision. Then do this:  Polish Polish your writing so that it follows all of the thoroughly, with no noticeable omissions. Click or tap the link to see all of them.      "
+  "body": " Portfolio Problem 6     Assume that are Fibonacci numbers. Prove that . Use induction.    Special instructions: If you choose this conjecture, first rephrase it as a fully correct theorem statement. It needs some work!    Let be a natural number and let . Then the th derivative of is    Special instructions: If you choose this conjecture, complete the theorem statement with an explicit (i.e. not recursive) formula for and use induction to prove your conjecture.     Instructions for the draft  Upload a scanned image of your draft to the Blackboard assignment.  To earn math successful , your draft must do all of the following:   Pick ONE conjecture and prove it. Ignore the other one. Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication specifications nor typing them up yet.  Follow the special instructions for your conjecture.  Include examples. Include at least 3 examples. These are separate from the base case of the induction proof and should be stated after the proof. See the sample portfolio solution for an example of how to format these.     Instructions for the writing revision  Submit a PDF of your writing revision to the Blackboard assignment.  To earn math & writing successful , your writing revision must do all of the following:   Include a proof and examples, as in the draft.  Put a special focus on demonstrating that you understand what the predicate, assumptions, and conclusions mean. Make sure that what you write has the correct meaning . This includes using predicate notation ( ) and quantifiers carefully and correctly. Also clearly and correctly state what you are assuming and what you are going to prove in the inductive step.  To help with writing, there are many sample induction proofs, including examples using Fibonacci numbers and derivatives, in the daily folders for 4.1, 4.2, and 4.3. There is also a template that you can follow for all induction proofs in the Portfolio folder.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Include a view only link to your Overleaf document in the Blackboard submission's text field.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , thoroughly address all comments from the draft and writing revision. Then do this:  Polish Polish your writing so that it follows all of the thoroughly, with no noticeable omissions. Click or tap the link to see all of them.      "
 },
 {
   "id": "pp-6-2-1",
@@ -348,8 +330,8 @@ var ptx_lunr_docs = [
   "url": "pp-7.html",
   "type": "Section",
   "number": "",
-  "title": "Portfolio Problem 7",
-  "body": " Portfolio Problem 7     Statement.       Instructions for the draft  Upload a scanned image of your draft to the Blackboard assignment.  To earn math successful , your draft must do all of the following:   Prove Theorem X using a know-show table or similar format. Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication specifications nor typing them up yet.  Include examples. Substitute in a variety of appropriate values for to see how this theorem works. Include at least 3 examples, covering a variety of -values. For each, show how you know the hypothesis and conclusion are true (see the sample portfolio solution for an example of how to format these).     Instructions for the writing revision  Submit a PDF of your writing revision to the Blackboard assignment.  To earn math & writing successful , your writing revision must do all of the following:   Include a formal proof of Theorem X.  Include examples, same as in the draft.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Include a view only link to your Overleaf document in the Blackboard submission's text field.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , thoroughly address all comments from the draft and writing revision. Then pick one of these and do it:  Polish Polish your writing so that it follows all of the thoroughly, with no noticeable omissions. Click or tap the link to see all of them.  Generalize Instructions here (This is in addition to following all instructions for the writing revision -- in particular, your writing revision must include all required proofs, examples, and disproofs.)      "
+  "title": "Portfolio Problem 7 - Team project",
+  "body": " Portfolio Problem 7 - Team project     Let be the th Lucas number and let and . For each , .       Instructions for the draft  To earn math successful , your group must do all of the following:   First, read out loud and discuss this as a team: Using the second principle of mathematical induction (textbook, near the end of Section 4.2). Compare this to how regular induction works -- pay special attention to the assumptions in the inductive step.  Then read out loud below. Read through the sample proof and notes carefully, and ask Dr. Clark questions about all of it! To test yourselves, answer this question: How are the assumptions in the inductive step different between strong and regular induction?  Finally, read this out loud: The Lucas numbers are a recursive sequence of numbers, similar to the Fibonacci numbers. The Lucas numbers are defined as:  Work together as a team to prove the theorem at the top of this page. Structure your draft to clearly show each key part of an induction proof.  Important hints:   The quadratic formula can be used to show that and are the two solutions to . This implies that and (why? -- you should be able to explain this!). These facts are useful, and if you wish to use them, you should justify them (briefly) within your proof.  To help understand the theorem, start by verifying that and .  Work with the relation and substitute the expressions for and from above. Use the useful facts from part (a), and the fact that to simplify. Use all of this to prove that .  Note that items (b) and (c) are scratch work; they should help you understand how to approach the proof but are not actually part of the proof themselves.    Include examples. Include at least two concrete examples illustrating your theorem (the hints above help you generate one example for ). Write them separately, above or below the proof. These are different from the base cases. (See the sample portfolio solution for an example of how to format these).  One group member should submit a scanned image of your draft to the Blackboard assignment.     Instructions for the writing revision  To earn math & writing successful , you must do all of the following:  Individually, submit your project reflection (link is on Blackboard). This must be completed in order to earn your individual portfolio grade.  As a group, do all of these:   Include a formal proof of the theorem.  Include examples, same as in the draft.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Do not include a view only link because Dr. Clark will share an Overleaf document with your team (so I'll already have access to it).  One group member should submit a PDF of your writing revision to the Blackboard assignment.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , thoroughly address all comments from the draft and writing revision. Then do the following:  Polish Polish your writing so that it follows all of the thoroughly, with no noticeable omissions. Click or tap the link to see all of them.      Strong induction hints and tips  This proof uses what is often called strong induction , or the second principle of mathematical induction . Read about it in Section 4.2.  The only difference between strong induction and regular induction is that you may assume more in the inductive step: You may assume that any or all of , , , are true (for some ). You may use any or all of these in your proof. Typically, not all of them will actually be used in the proof, but they're available if you need them.  Below is an example of how strong induction works, in addition to the examples in your book. Note that this is not a formal proof -- it is just an outline to help you understand this new idea. Tap Proof to open and read it.   The Fibonacci number satisfies for all .   Let be   where .  Base cases: claims that . We know that and , and by inspection . So is true.  Likewise, claims that . We know that and , and by inspection . So is true.  Assumptions: We assume that, for some natural number , both and are true. That is, we assume that and .  Goal: We want to prove that .  Inductive step:   Reading the above inequalities from top to bottom shows that .     Notes:    Why did we need strong induction? Because each Fibonacci number is defined in terms of the two previous Fibonacci numbers, we needed to know something about both  and . Assuming that only would not have given us enough to work with.    Why did we have to do two base cases? Because this strong induction uses the two previous Fibonacci numbers. So this first inductive step amounts to proving If and are true, then is true. Think carefully about this!    Why did we only assume that and are true, when strong induction would allow us to assume that all of , ,  , are true? This is just a matter of style: We only needed and in the proof, so we didn't say anything about , , etc. It is considered good style to mention only the predicates you need.       "
 },
 {
   "id": "pp-7-2-1",
@@ -358,7 +340,16 @@ var ptx_lunr_docs = [
   "type": "Theorem",
   "number": "13",
   "title": "",
-  "body": "  Statement.   "
+  "body": "  Let be the th Lucas number and let and . For each , .   "
+},
+{
+  "id": "pp-7-induction-tips-5",
+  "level": "2",
+  "url": "pp-7.html#pp-7-induction-tips-5",
+  "type": "Theorem",
+  "number": "14",
+  "title": "",
+  "body": " The Fibonacci number satisfies for all .   Let be   where .  Base cases: claims that . We know that and , and by inspection . So is true.  Likewise, claims that . We know that and , and by inspection . So is true.  Assumptions: We assume that, for some natural number , both and are true. That is, we assume that and .  Goal: We want to prove that .  Inductive step:   Reading the above inequalities from top to bottom shows that .   "
 },
 {
   "id": "pp-8",
@@ -367,16 +358,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Portfolio Problem 8",
-  "body": " Portfolio Problem 8     Statement.       Instructions for the draft  Upload a scanned image of your draft to the Blackboard assignment.  To earn math successful , your draft must do all of the following:   Prove Theorem X using a know-show table or similar format. Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication specifications nor typing them up yet.  Include examples. Substitute in a variety of appropriate values for to see how this theorem works. Include at least 3 examples, covering a variety of -values. For each, show how you know the hypothesis and conclusion are true (see the sample portfolio solution for an example of how to format these).     Instructions for the writing revision  Submit a PDF of your writing revision to the Blackboard assignment.  To earn math & writing successful , your writing revision must do all of the following:   Include a formal proof of Theorem X.  Include examples, same as in the draft.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Include a view only link to your Overleaf document in the Blackboard submission's text field.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , thoroughly address all comments from the draft and writing revision. Then pick one of these and do it:  Polish Polish your writing so that it follows all of the thoroughly, with no noticeable omissions. Click or tap the link to see all of them.  Generalize Instructions here (This is in addition to following all instructions for the writing revision -- in particular, your writing revision must include all required proofs, examples, and disproofs.)      "
+  "body": " Portfolio Problem 8     Let be the set of all integers for which 4 divides , and let be the set of all integers that are congruent to 3 (mod 12). Then .    Special instructions: If you choose this conjecture, provide examples of at least 5 numbers form each set in roster notation, and show briefly how you know that number is in that set. Then show thaty our conclusion is true.    If and are subsets of some universal set , then .    Special instructions:  Choose this conjecture if you want to aim for excellent . If you choose this conjecture, provide an example of both sets and with at least 5 numbers in each. Then show how to calculate the sets on either side of the equation and show that the results agree with your conclusion. Read the Instructions for excellence carefully if that is your goal.     Instructions for the draft  Choose only one of the conjectures and address it. Ignore the other one.  You might want to look at the Instructions for excellence below before choosing -- that makes a difference this time!  Upload a scanned image of your draft to the Blackboard assignment.  To earn math successful , your draft must address only one conjecture:   If your conjecture is true:   State it as a theorem and write a proof of it in know-show format.  Follow the special instructions written underneath your conjecture.    If your conjecture is false:   Determine if one of the sets is a subset of the other set. If so, state an appropriate theorem about subsets and prove it.  Separately, before the proof, provide one clear counterexample that shows that the other subset statement is false.  Follow the special instructions written underneath your conjecture.       Instructions for the writing revision  Submit a PDF of your writing revision to the Blackboard assignment.  To earn math & writing successful , your writing revision must do all of the following:   Follow all instructions for proofs, examples, and counterexamples from the draft. Each of these should now be formatted following the writing conventions.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Include a view only link to your Overleaf document in the Blackboard submission's text field.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , thoroughly address all comments from the draft and writing revision. Then do the following:  Choose and follow these additional instructions Choose this (more difficult) conjecture, then also write your proof using set algebra as we have discussed in class. Your proof should be clearly and thoroughly explained, both in words and in symbols, as usual. (This is in addition to following all instructions for the writing revision -- in particular, your writing revision must include all required proofs, examples, and disproofs.)      "
 },
 {
   "id": "pp-8-2-1",
   "level": "2",
   "url": "pp-8.html#pp-8-2-1",
-  "type": "Theorem",
-  "number": "14",
+  "type": "Conjecture",
+  "number": "15",
   "title": "",
-  "body": "  Statement.   "
+  "body": "  Let be the set of all integers for which 4 divides , and let be the set of all integers that are congruent to 3 (mod 12). Then .   "
+},
+{
+  "id": "pp-8-conj-2",
+  "level": "2",
+  "url": "pp-8.html#pp-8-conj-2",
+  "type": "Conjecture",
+  "number": "16",
+  "title": "",
+  "body": "  If and are subsets of some universal set , then .   "
 },
 {
   "id": "pp-9",
@@ -385,16 +385,34 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Portfolio Problem 9",
-  "body": " Portfolio Problem 9     Statement.       Instructions for the draft  Upload a scanned image of your draft to the Blackboard assignment.  To earn math successful , your draft must do all of the following:   Prove Theorem X using a know-show table or similar format. Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication specifications nor typing them up yet.  Include examples. Substitute in a variety of appropriate values for to see how this theorem works. Include at least 3 examples, covering a variety of -values. For each, show how you know the hypothesis and conclusion are true (see the sample portfolio solution for an example of how to format these).     Instructions for the writing revision  Submit a PDF of your writing revision to the Blackboard assignment.  To earn math & writing successful , your writing revision must do all of the following:   Include a formal proof of Theorem X.  Include examples, same as in the draft.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Include a view only link to your Overleaf document in the Blackboard submission's text field.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , thoroughly address all comments from the draft and writing revision. Then pick one of these and do it:  Polish Polish your writing so that it follows all of the thoroughly, with no noticeable omissions. Click or tap the link to see all of them.  Generalize Instructions here (This is in addition to following all instructions for the writing revision -- in particular, your writing revision must include all required proofs, examples, and disproofs.)      "
+  "body": " Portfolio Problem 9   If you intend to try for excellent on this portfolio, see the instructions and ask Dr. Clark right away.    Let be defined by for all . Then is a bijection.    Special instructions: If you choose this conjecture and it is false, then determine if is an injection or a surjection. State a new theorem including only the true items and prove it. Separately -- outside of the proof -- provide one clear counterexample to any parts that are false.    Let be defined by for all . Then is a bijection.    Special instructions: As written, this function is neither a surjection nor an injection. If you choose this, you must first include concrete counterexamples to show why it is not injective and not surjective. Then change both the domain and codomain to the largest possible sets that make a bijection. State your new result with a properly written theorem statement that includes the corrected domain and codomain, and prove the new statement.    Let be the set of all matrices with real number entries. The function defined by the rule is a bijection. (Notice that makes a very small but important change to where and are located.)    Special instructions: If you choose this conjecture and it is false, then determine if is an injection or is a surjection. State a new theorem including only the true items and prove it. Separately -- outside of the proof -- provide one clear counterexample to any parts that are false.     Instructions for the draft  Choose only one of the conjectures and address it. Ignore the other ones.  Upload a scanned image of your draft to the Blackboard assignment.  To earn math successful , your draft must address only one conjecture:   Each conjecture asks you to prove that a function is a bijection. Be sure to follow the special instructions on what to do if the conjecture is false -- it's different in each case.  This time, you do not need to include any other examples of the theorems in action (other than counterexamples).     Instructions for the writing revision  Submit a PDF of your writing revision to the Blackboard assignment.  To earn math & writing successful , your writing revision must do all of the following:   Follow all instructions for proofs, examples, and counterexamples from the draft. Each of these should now be formatted following the writing conventions.  Address all feedback from the draft.  Type your work in latex . Use the template , how-to guide , and sample portfolio solution .  Include a view only link to your Overleaf document in the Blackboard submission's text field.  Follow all of the conventions listed below (click each one to get more details and examples):           Instructions for excellence  To earn math & writing excellent , thoroughly address all comments from the draft and writing revision. Then do this:  Ask Dr. Clark for a personalized challenge This is the challenge round! Ask Dr. Clark for a specific challenge about how to earn excellent on this portfolio. Ask earlier rather than later, since it might involve making a different choice of conjecture.      "
 },
 {
-  "id": "pp-9-2-1",
+  "id": "pp-9-conj-1",
   "level": "2",
-  "url": "pp-9.html#pp-9-2-1",
-  "type": "Theorem",
-  "number": "15",
+  "url": "pp-9.html#pp-9-conj-1",
+  "type": "Conjecture",
+  "number": "17",
   "title": "",
-  "body": "  Statement.   "
+  "body": "  Let be defined by for all . Then is a bijection.   "
+},
+{
+  "id": "pp-9-conj-2",
+  "level": "2",
+  "url": "pp-9.html#pp-9-conj-2",
+  "type": "Conjecture",
+  "number": "18",
+  "title": "",
+  "body": "  Let be defined by for all . Then is a bijection.   "
+},
+{
+  "id": "pp-9-conj-3",
+  "level": "2",
+  "url": "pp-9.html#pp-9-conj-3",
+  "type": "Conjecture",
+  "number": "19",
+  "title": "",
+  "body": "  Let be the set of all matrices with real number entries. The function defined by the rule is a bijection. (Notice that makes a very small but important change to where and are located.)   "
 }
 ]
 
