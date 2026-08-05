@@ -3,12 +3,35 @@
 <section xml:id="pp-9">
   <title>Portfolio Problem 9</title>
 
-  <introduction>
-	<theorem>
+
+   <introduction>
+   
+   <p><alert>If you intend to try for <q>excellent</q> on this portfolio, see the instructions and ask Dr. Clark right away.</alert></p>
+	<conjecture xml:id="pp-9-conj-1">
 		<statement>
-			<p>Statement.</p>
+			<p>Let <m>b : \mathbb{R} \to \mathbb{R}</m> be defined by 
+				<md>b(x) = \begin{cases}
+	2x+1 &amp; \text{ if } x \geq 0\\
+	2x &amp; \text{ if } x \lt 0
+\end{cases}</md> for all <m>x \in \mathbb{R}</m>. Then <m>b</m> is a bijection.</p>
 		</statement>
-	</theorem>
+	</conjecture>
+	<p><em>Special instructions:</em> If you choose this conjecture and it is false, then determine if <m>b</m> is an injection or a surjection. State a new theorem including only the true items and prove it. Separately -- <em>outside</em> of the proof -- provide one clear counterexample to any parts that are false.</p>
+	
+	<conjecture xml:id="pp-9-conj-2">
+		<statement>
+			<p>Let <m>f : \mathbb{R} \to \mathbb{R}</m> be defined by <m>f(x) = (x+2)^{2} + 7</m> for all <m>x \in \mathbb{R}</m>. Then <m>f</m> is a bijection.</p>
+		</statement>
+	</conjecture>
+	<p><em>Special instructions:</em> As written, this function is <em>neither</em> a surjection nor an injection. If you choose this, you must first include concrete counterexamples to show why it is not injective and not surjective. Then <em>change</em> both the domain and codomain to the largest possible sets that make <m>f</m> a bijection. State your new result with a properly written theorem statement that includes the corrected domain and codomain, and prove the new statement.</p>
+	
+	<conjecture xml:id="pp-9-conj-3">
+		<statement>
+			<p>Let <m>M</m> be the set of all <m>2 \times 2</m> matrices with real number entries. The function <m>tr: M \to M</m> defined by the rule 
+			<md>tr \left( \begin{bmatrix} a &amp; b \\ c &amp; d \end{bmatrix}\right) = \begin{bmatrix} a &amp; c \\ b &amp; d \end{bmatrix} \text{ for all matrices in } M</md> is a bijection. (Notice that <m>tr</m> makes a very small but important change to where <m>b</m> and <m>c</m> are located.)</p>
+		</statement>
+	</conjecture>
+	<p><em>Special instructions:</em> If you choose this conjecture and it is false, then determine if <m>tr</m> is an injection or is a surjection. State a new theorem including only the true items and prove it. Separately -- <em>outside</em> of the proof -- provide one clear counterexample to any parts that are false.</p>
   </introduction>
 
   <!-- Can also be <handout> instead of <subsection> to get a printable version -->
@@ -16,12 +39,14 @@
   
   <subsection>
   	<title>Instructions for the draft</title>
+	<p>Choose <em>only one</em> of the conjectures and address it. Ignore the other ones.</p>
+	
 	<p>Upload a scanned image of your draft to the Blackboard assignment.</p>
 	
-	<p>To earn <em>math successful</em>, your draft must do all of the following:</p>
+	<p>To earn <em>math successful</em>, your draft must address only one conjecture:</p>
 	<ol>
-		<li><p><em>Prove Theorem X using a know-show table or similar format.</em> Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication specifications nor typing them up yet.</p></li>
-		<li><p><em>Include examples.</em> Substitute in a variety of appropriate values for <m>n</m> to see how this theorem works. Include at least 3 examples, covering a variety of <m>n</m>-values. For each, show how you know the hypothesis and conclusion are true (see the <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url> for an example of how to format these).</p></li>
+		<li><p>Each conjecture asks you to prove that a function is a bijection. Be sure to follow the special instructions on what to do if the conjecture is false -- it's different in each case.</p></li>
+		<li><p>This time, you do <em>not</em> need to include any other examples of the theorems in action (other than counterexamples).</p></li>
 	</ol>
   </subsection>
   
@@ -31,8 +56,7 @@
 	
 	<p>To earn <em>math &amp; writing successful</em>, your writing revision must do all of the following:</p>
 	<ol>
-		<li><p>Include a formal proof of Theorem X.</p></li>
-		<li><p>Include examples, same as in the draft.</p></li>
+		<li><p>Follow all instructions for proofs, examples, and counterexamples from the draft. Each of these should now be formatted following the writing conventions.</p></li>
 		<li><p>Address all feedback from the draft.</p></li>
 		<li><p>Type your work in <latex />. Use the <url href="https://www.overleaf.com/read/wgbrgwbzkpkh#ab87eb">template</url>, <url href="https://www.overleaf.com/read/pkdmwpvttfvf#49a6e3">how-to guide</url>, and <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url>.</p></li>
 		<li><p>Include a <q>view only</q> link to your Overleaf document in the Blackboard submission's text field.</p></li>
@@ -52,14 +76,13 @@
 	<p><xref ref="wc-definitions" text="type-local-title" /></p>
 	
   </subsection>
-  
+    
   <subsection>
   	<title>Instructions for excellence</title>
-	<p>To earn <em>math &amp; writing excellent</em>, thoroughly address all comments from the draft and writing revision. Then pick <em>one</em> of these and do it:
+	<p>To earn <em>math &amp; writing excellent</em>, thoroughly address all comments from the draft and writing revision. Then do this:
 	
 	<ol>
-		<li><title>Polish</title><p>Polish your writing so that it follows <em>all</em> of the <xref ref="pp-specs-additional" text="title" /> thoroughly, with no noticeable omissions. Click or tap the link to see all of them.</p></li>
-		<li><title>Generalize</title><p>Instructions here (This is in <em>addition</em> to following all instructions for the writing revision -- in particular, your writing revision must include all required proofs, examples, and disproofs.)</p></li>
+		<li><title>Ask Dr. Clark for a personalized challenge</title><p>This is the challenge round! Ask Dr. Clark for a specific challenge about how to earn <q>excellent</q> on this portfolio. Ask earlier rather than later, since it might involve making a different choice of conjecture.</p></li>
 	</ol>
 	</p>
   </subsection>

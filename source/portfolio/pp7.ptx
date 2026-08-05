@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="pp-7">
-  <title>Portfolio Problem 7</title>
+  <title>Portfolio Problem 7 - Team project</title>
 
   <introduction>
 	<theorem>
 		<statement>
-			<p>Statement.</p>
+			<p>Let <m>L_{n}</m> be the <m>n</m>th Lucas number and let <m>\alpha = \dfrac{1+\sqrt{5}}{2}</m> and <m>\beta = \dfrac{1-\sqrt{5}}{2}</m>. For each <m>n \in \N</m>, <m>L_{n} = \alpha^{n} + \beta^{n}</m>.</p>
 		</statement>
 	</theorem>
   </introduction>
@@ -16,26 +16,41 @@
   
   <subsection>
   	<title>Instructions for the draft</title>
-	<p>Upload a scanned image of your draft to the Blackboard assignment.</p>
 	
-	<p>To earn <em>math successful</em>, your draft must do all of the following:</p>
+	<p>To earn <em>math successful</em>, your group must do all of the following:</p>
 	<ol>
-		<li><p><em>Prove Theorem X using a know-show table or similar format.</em> Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication specifications nor typing them up yet.</p></li>
-		<li><p><em>Include examples.</em> Substitute in a variety of appropriate values for <m>n</m> to see how this theorem works. Include at least 3 examples, covering a variety of <m>n</m>-values. For each, show how you know the hypothesis and conclusion are true (see the <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url> for an example of how to format these).</p></li>
+		<li><p>First, read out loud and discuss this as a team: <url href="https://gvsuoer.github.io/sundstrom-textbook/S_otherinduction.html#subsection-79">Using the second principle of mathematical induction</url> (textbook, near the end of Section 4.2). Compare this to how <q>regular</q> induction works -- pay special attention to the <em>assumptions</em> in the inductive step.</p></li>
+		<li><p>Then read out loud <xref ref="pp-7-induction-tips" text="title"/> below. Read through the sample proof and notes carefully, and ask Dr. Clark questions about all of it! To test yourselves, answer this question: How are the <em>assumptions</em> in the inductive step different between strong and regular induction?</p></li>
+		<li><p>Finally, read this out loud: The Lucas numbers are a recursive sequence of numbers, similar to the Fibonacci numbers. The Lucas numbers <m>L_{1}, L_{2}, L_{3}, \ldots, L_{n}, \ldots</m> are defined as: <md>L_{1} = 1, \; L_{2} = 3, \text{ and } L_{n+2} = L_{n+1} + L_{n} \text{ for each natural number } n \geq 3.</md></p></li>
+		<li><p>Work together as a team to prove the theorem at the top of this page. Structure your draft to clearly show each key part of an induction proof.</p></li>
+		<li><p><em>Important hints:</em>
+			<ol>
+				<li><p>The quadratic formula can be used to show that <m>\alpha</m> and <m>\beta</m> are the two solutions to <m>x^{2}-x-1 = 0</m>. This implies that <m>\alpha^{2} = \alpha+1</m> and <m>\beta^{2} = \beta+1</m> (why? -- you should be able to explain this!). These facts are useful, and if you wish to use them, you should justify them (briefly) within your proof.</p></li>
+				<li><p>To help understand the theorem, start by verifying that <m>L_{1} = \alpha^{1} + \beta^{1}</m> and <m>L_{2} = \alpha^{2} + \beta^{2}</m>.</p></li>
+				<li><p>Work with the relation <m>L_{3} = L_{2} + L_{1}</m> and substitute the expressions for <m>L_{2}</m> and <m>L_{1}</m> from above. Use the useful facts from part (a), and the fact that <m>x^{2} + x = x(x+1)</m> to simplify. Use all of this to prove that <m>L_{3} = {\alpha^{3} + \beta^{3}}</m>.</p></li>
+				<li><p>Note that items (b) and (c) are scratch work; they should help you understand how to approach the proof but are not actually part of the proof themselves.</p></li>
+			</ol>
+		</p></li>
+		<li><p><em>Include examples.</em> Include at least two concrete examples illustrating your theorem (the hints above help you generate one example for <m>L_{3}</m>). Write them separately, above or below the proof. These are different from the base cases. (See the <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url> for an example of how to format these).</p></li>
+		<li><p><em>One</em> group member should submit a scanned image of your draft to the Blackboard assignment.</p></li>
 	</ol>
   </subsection>
   
   <subsection>
   	<title>Instructions for the writing revision</title>
-	<p>Submit a PDF of your writing revision to the Blackboard assignment.</p>
 	
-	<p>To earn <em>math &amp; writing successful</em>, your writing revision must do all of the following:</p>
+	<p>To earn <em>math &amp; writing successful</em>, you must do all of the following:</p>
+	
+	<p><em>Individually,</em> submit your project reflection (link is on Blackboard). This must be completed in order to earn your individual portfolio grade.</p>
+	
+	<p>As a group, do all of these:</p>
 	<ol>
-		<li><p>Include a formal proof of Theorem X.</p></li>
+		<li><p>Include a formal proof of the theorem.</p></li>
 		<li><p>Include examples, same as in the draft.</p></li>
 		<li><p>Address all feedback from the draft.</p></li>
 		<li><p>Type your work in <latex />. Use the <url href="https://www.overleaf.com/read/wgbrgwbzkpkh#ab87eb">template</url>, <url href="https://www.overleaf.com/read/pkdmwpvttfvf#49a6e3">how-to guide</url>, and <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url>.</p></li>
-		<li><p>Include a <q>view only</q> link to your Overleaf document in the Blackboard submission's text field.</p></li>
+		<li><p><em>Do not</em> include a <q>view only</q> link because Dr. Clark will share an Overleaf document with your team (so I'll already have access to it).</p></li>
+		<li><p><em>One</em> group member should submit a PDF of your writing revision to the Blackboard assignment.</p></li>
 		<li><p>Follow <em>all</em> of the conventions listed below (click each one to get more details and examples):</p></li>
 	</ol>
 	
@@ -55,13 +70,133 @@
   
   <subsection>
   	<title>Instructions for excellence</title>
-	<p>To earn <em>math &amp; writing excellent</em>, thoroughly address all comments from the draft and writing revision. Then pick <em>one</em> of these and do it:
-	
+	<p>To earn <em>math &amp; writing excellent</em>, thoroughly address all comments from the draft and writing revision. Then do the following:	
 	<ol>
 		<li><title>Polish</title><p>Polish your writing so that it follows <em>all</em> of the <xref ref="pp-specs-additional" text="title" /> thoroughly, with no noticeable omissions. Click or tap the link to see all of them.</p></li>
-		<li><title>Generalize</title><p>Instructions here (This is in <em>addition</em> to following all instructions for the writing revision -- in particular, your writing revision must include all required proofs, examples, and disproofs.)</p></li>
 	</ol>
 	</p>
+  </subsection>
+  
+  <subsection xml:id="pp-7-induction-tips">
+  	<title>Strong induction hints and tips</title>
+	
+	<p>
+    This proof uses what is often called <q>strong induction</q>, or
+    <q>the second principle of mathematical induction</q>.
+    Read about it in Section 4.2.
+</p>
+
+<p>
+    The only difference between <q>strong induction</q> and regular induction is
+    that you may assume more in the inductive step: You may assume that any or
+    all of <m>P(k)</m>, <m>P(k-1)</m>, <ellipsis/>, <m>P(1)</m> are true (for
+    some <m>k \in \mathbb{N}</m> ).
+    You may use <em>any</em> or <em>all</em> of these in your proof.
+    Typically, <em>not</em> all of them will actually be used in the proof, but
+    they're available if you need them.
+</p>
+
+<p>
+    Below is an example of how strong induction works, in addition to the
+    examples in your book.
+    Note that this is not a formal proof -- it is just an outline to help
+    you understand this new idea. Tap <q>Proof</q> to open and read it.
+</p>
+
+<theorem>
+	<statement>The Fibonacci number <m>f_{n}</m> satisfies
+    <m>f_{n}\leq 3^{n}</m> for all <m>n \in \mathbb{N}</m>.
+	</statement>
+
+	<proof>
+		<p>
+    Let <m>P(n)</m> be <q> <m>f_{n}\leq 3^{n}</m> </q>
+    where <m>n \in \mathbb{N}</m>.
+</p>
+		<p>
+    Base cases: <m>P(1)</m> claims that <q><m>f_1 \leq 3^1</m></q>. We know that <m>f_{1}= 1</m> and <m>3^{1}= 3</m>, and by inspection
+    <m>1 \leq 3</m>.
+    So <m>P(1)</m> is true.
+</p>
+
+<p>
+    Likewise, <m>P(2)</m> claims that <q><m>f_2 \leq 3^2</m></q>. We know that <m>f_{2}= 1</m> and <m>3^{2}= 9</m>, and by inspection
+    <m>1 \leq 9</m>.
+    So <m>P(2)</m> is true.
+</p>
+
+<p>
+    Assumptions: We assume that, for some natural number <m>k</m>, both
+    <m>P(k)</m> and <m>P(k-1)</m> are true.
+    That is, we assume that <m>f_{k}\leq 3^{k}</m> and
+    <m>f_{k-1}\leq 3^{k-1}</m>.
+</p>
+
+<p>
+    Goal: We want to prove that <m>f_{k+1}\leq 3^{k+1}</m>.
+</p>
+
+<p>
+    Inductive step:
+</p>
+<md>
+    <mrow>f_{k+1}&amp;= f_{k}+ f_{k-1}&amp;&amp;\text{by definition of Fibonacci numbers}</mrow>
+    <mrow>&amp;\leq 3^{k}+ f_{k-1}&amp;&amp;\text{by assumption that $P(k)$ is true}</mrow>
+    <mrow>&amp;\leq 3^{k}+ 3^{k-1}&amp;&amp;\text{by assumption that $P(k-1)$ is true}</mrow>
+    <mrow>&amp;= 3^{k-1}(3 + 1)&amp;&amp;\text{by algebra}</mrow>
+    <mrow>&amp;= 3^{k-1}\cdot 4&amp;&amp;\text{by algebra}</mrow>
+    <mrow>&amp;\leq 3^{k-1}\cdot 9&amp;&amp;\text{because 9 is larger than 4 and $9$ is a power of 3.}</mrow>
+    <mrow>&amp;= 3^{k-1}\cdot 3^{2}= 3^{k+1}.&amp;&amp;\text{by algebra}</mrow>
+</md>
+	<p>
+    Reading the above inequalities from top to bottom shows that
+    <m>f_{k+1}\leq 3^{k+1}</m>.
+</p>
+	</proof>
+</theorem>
+
+<p>
+    <em>Notes:</em>
+    <ul>
+        <li>
+            <p>
+                Why did we need strong induction?
+                Because each Fibonacci number is defined in terms of the
+                <em>two</em> previous Fibonacci numbers, we needed to know
+                something about <em>both</em> <m>f_{k}</m> and <m>f_{k-1}</m>.
+                Assuming that only <m>f_{k}\leq 3^{k}</m> would not have given
+                us enough to work with.
+            </p>
+        </li>
+
+        <li>
+            <p>
+                Why did we have to do <em>two</em> base cases?
+                Because this strong induction uses the <em>two</em> previous
+                Fibonacci numbers.
+                <!--, the first inductive step (proving $P(3)$) needs to know that \emph{both} $P(1)$ and $P(2)$ are true.-->
+                So this first inductive step amounts to proving
+                <q>If <m>P(1)</m> and <m>P(2)</m> are true, then <m>P(3)</m> is true.</q>
+                Think carefully about this!
+            </p>
+        </li>
+
+        <li>
+            <p>
+                Why did we only assume that <m>P(k)</m> and <m>P(k-1)</m> are
+                true, when strong induction would allow us to assume that
+                <em>all</em> of <m>P(k)</m>, <m>P(k-1)</m>, <m>P(k-2)</m>
+                <ellipsis/>, <m>P(1)</m> are true?
+                This is just a matter of style: We only needed <m>P(k)</m> and
+                <m>P(k-1)</m> in the proof, so we didn't say anything about
+                <m>P(k-2)</m>, <m>P(k-3)</m>, etc.
+                It is considered good style to mention only the predicates you
+                need.
+            </p>
+        </li>
+    </ul>
+</p>
+
   </subsection>
   
   	<!-- <li><p>After the writing revision, you can revise once more and submit a <em>final revision</em> by the final exam. Only this final revision will count towards your final grade.</p></li> -->

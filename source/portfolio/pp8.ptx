@@ -4,11 +4,18 @@
   <title>Portfolio Problem 8</title>
 
   <introduction>
-	<theorem>
+	<conjecture>
 		<statement>
-			<p>Statement.</p>
+			<p>Let <m>A</m> be the set of all integers <m>n</m> for which 4 divides <m>n-7</m>, and let <m>B</m> be the set of all integers that are congruent to 3 (mod 12). Then <m>A = B</m>.</p>
 		</statement>
-	</theorem>
+	</conjecture>
+	<p><em>Special instructions:</em> If you choose this conjecture, provide examples of at least 5 numbers form each set in roster notation, and show briefly how you know that number is in that set. Then show thaty our conclusion is true.</p>
+	<conjecture xml:id="pp-8-conj-2">
+		<statement>
+			<p>If <m>A</m> and <m>B</m> are subsets of some universal set <m>U</m>, then <m>(A \cup B) - (A \cap B) = (A - B) \cup (B - A)</m>.</p>
+		</statement>
+	</conjecture>
+	<p><em>Special instructions:</em> <alert>Choose this conjecture if you want to aim for <q>excellent</q>.</alert> If you choose this conjecture, provide an example of both sets <m>A</m> and <m>B</m> with at least 5 numbers in each. Then show how to calculate the sets on either side of the equation and show that the results agree with your conclusion. Read the <q>Instructions for excellence</q> carefully if that is your goal.</p>
   </introduction>
 
   <!-- Can also be <handout> instead of <subsection> to get a printable version -->
@@ -16,12 +23,26 @@
   
   <subsection>
   	<title>Instructions for the draft</title>
+	<p>Choose <em>only one</em> of the conjectures and address it. Ignore the other one.</p>
+	<p><alert>You might want to look at the <q>Instructions for excellence</q> below before choosing -- that makes a difference this time!</alert></p>
+	
 	<p>Upload a scanned image of your draft to the Blackboard assignment.</p>
 	
-	<p>To earn <em>math successful</em>, your draft must do all of the following:</p>
+	<p>To earn <em>math successful</em>, your draft must address only one conjecture:</p>
 	<ol>
-		<li><p><em>Prove Theorem X using a know-show table or similar format.</em> Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication specifications nor typing them up yet.</p></li>
-		<li><p><em>Include examples.</em> Substitute in a variety of appropriate values for <m>n</m> to see how this theorem works. Include at least 3 examples, covering a variety of <m>n</m>-values. For each, show how you know the hypothesis and conclusion are true (see the <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url> for an example of how to format these).</p></li>
+		<li><p>If your conjecture is true:</p>
+		<ul>
+			<li><p>State it as a theorem and write a proof of it in know-show format.</p></li>
+			<li><p>Follow the special instructions written underneath your conjecture.</p></li>
+		</ul>
+		</li>
+		<li><p>If your conjecture is false:</p>
+		<ul>
+			<li><p>Determine if one of the sets is a subset of the other set. If so, state an appropriate theorem about subsets and prove it.</p></li>
+			<li><p>Separately, before the proof, provide one clear counterexample that shows that the other subset statement is false.</p></li>
+			<li><p>Follow the special instructions written underneath your conjecture.</p></li>
+		</ul>
+		</li>
 	</ol>
   </subsection>
   
@@ -31,8 +52,7 @@
 	
 	<p>To earn <em>math &amp; writing successful</em>, your writing revision must do all of the following:</p>
 	<ol>
-		<li><p>Include a formal proof of Theorem X.</p></li>
-		<li><p>Include examples, same as in the draft.</p></li>
+		<li><p>Follow all instructions for proofs, examples, and counterexamples from the draft. Each of these should now be formatted following the writing conventions.</p></li>
 		<li><p>Address all feedback from the draft.</p></li>
 		<li><p>Type your work in <latex />. Use the <url href="https://www.overleaf.com/read/wgbrgwbzkpkh#ab87eb">template</url>, <url href="https://www.overleaf.com/read/pkdmwpvttfvf#49a6e3">how-to guide</url>, and <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url>.</p></li>
 		<li><p>Include a <q>view only</q> link to your Overleaf document in the Blackboard submission's text field.</p></li>
@@ -55,11 +75,10 @@
   
   <subsection>
   	<title>Instructions for excellence</title>
-	<p>To earn <em>math &amp; writing excellent</em>, thoroughly address all comments from the draft and writing revision. Then pick <em>one</em> of these and do it:
+	<p>To earn <em>math &amp; writing excellent</em>, thoroughly address all comments from the draft and writing revision. Then do the following:
 	
 	<ol>
-		<li><title>Polish</title><p>Polish your writing so that it follows <em>all</em> of the <xref ref="pp-specs-additional" text="title" /> thoroughly, with no noticeable omissions. Click or tap the link to see all of them.</p></li>
-		<li><title>Generalize</title><p>Instructions here (This is in <em>addition</em> to following all instructions for the writing revision -- in particular, your writing revision must include all required proofs, examples, and disproofs.)</p></li>
+		<li><title>Choose <xref ref="pp-8-conj-2" /> and follow these additional instructions</title><p>Choose this (more difficult) conjecture, then also write your proof using <q>set algebra</q> as we have discussed in class. Your proof should be clearly and thoroughly explained, both in words and in symbols, as usual. (This is in <em>addition</em> to following all instructions for the writing revision -- in particular, your writing revision must include all required proofs, examples, and disproofs.)</p></li>
 	</ol>
 	</p>
   </subsection>
