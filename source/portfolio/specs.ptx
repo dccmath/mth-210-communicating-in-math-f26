@@ -64,7 +64,7 @@ Each statement's justification must be clear and unambiguous in addition to bein
 		<p>You can also justify statements using outside facts that are prerequisites for this class. <q>Using algebra</q> above is an example of this. You can (and should!) leave out details below the level of this class (including excessive algebra or arithmetic).</p>
 	</exercise>
 
-	<exercise xml:id="wc-variables"><title>Define all variables before they are used</title>
+	<exercise xml:id="wc-variables"><title>Define all variables and new notation before they are used</title>
 		<p>Before using any variable, you must explain what it is. <em>Never</em> use a variable without defining it first. Here are some examples:</p>
 		<blockquote><p>Let <m>b</m> be the base length of the triangle.</p>
 		<p>Let <m>x \in \mathbb{R}</m>.</p>
@@ -74,6 +74,8 @@ Each statement's justification must be clear and unambiguous in addition to bein
 		<p>Therefore, <m>n = 2k</m> for some <m>k \in \mathbb{Z}</m>.</p>
 		</blockquote>
 		<p>Using an undefined variable is a critical logical mistake!</p>
+		<p>Similarly, you must define any new notation that you create or use within your proof. For example, if using <m>L_{n}</m> to represent the Lucas Numbers (we'll see what these are later!), you would need to write <q>Let <m>L_{n}</m> represent the <m>n</m>th Lucas number</q> before using that symbol anywhere else.</p>
+		<p>You do <em>not</em> need to define standard symbols that we have already defined and used in class.</p>
 	</exercise>
 	
 	<exercise xml:id="wc-definitions"><title>Cite definitions clearly and correctly each time one is used</title>
@@ -102,9 +104,10 @@ Each statement's justification must be clear and unambiguous in addition to bein
 		<p>Use the provided Overleaf template and refer to the LaTeX reference document for help with symbols and formatting. These are available on Blackboard.</p>
 	</exercise>
 	
-	<exercise xml:id="wc-spelling"><title>Follow all basic WRT 150 writing requirements</title>
+	<exercise xml:id="wc-spelling"><title>Follow all basic WRT 150 writing requirements, including spelling, grammar, and punctuation, and avoiding shorthand</title>
 		<p>Specifically, use correct spelling, grammar, and punctuation. Ensure each sentence is complete and has a subject and a verb (which may include mathematical symbols).</p>
 		<p>In addition, start a new paragraph when a new idea begins. Proofs often have only 1 or 2 sentences per paragraph, and it's OK to start a new paragraph as soon as there's a new idea, even if it makes for a very short paragraph.</p>
+		<p>Finally, avoid <q>shorthand</q> words, abbreviations, or slang. For example, use <q>substitute</q> rather than <q>sub in</q> or <q>plug in</q>. These are both shorthands for the more precise idea of substitution.</p>
 	</exercise>
 	
 	<exercise xml:id="wc-we"><title>Use <q>we</q> instead of <q>I</q> or <q>you</q></title>
