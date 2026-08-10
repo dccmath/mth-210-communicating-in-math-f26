@@ -13,16 +13,15 @@
     <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
 
+	<chapter xml:id="writing-conventions">
+		<title>Writing conventions</title>
+		
+		<xi:include href="./portfolio/specs.ptx"/>
+	</chapter>
+	
     <chapter xml:id="portfolio-problems">
-      <title>Portfolio Problems and Writing Conventions</title>
+      <title>Portfolio Problems</title>
 
-      <introduction>
-        <p>
-          You'll find each assigned Portfolio Problem here, along with instructions.
-        </p>
-      </introduction>
-
-	  <xi:include href="./portfolio/specs.ptx"/>
       <xi:include href="./portfolio/pp1.ptx"/>
       <xi:include href="./portfolio/pp2.ptx"/>
       <xi:include href="./portfolio/pp3.ptx"/>
