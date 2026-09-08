@@ -4,7 +4,7 @@
   <title>Writing Conventions for MTH 210</title>
 
   <introduction>
-	<p>These are writing conventions that we will learn and use in MTH 210. Every writing revision of a portfolio should follow all of these.</p>
+	<p>These are writing conventions that we will learn and use in MTH 210. Every writing revision and final revision of each portfolio should follow all of these.</p>
 	
 	<p>Click or tap on each convention below to read more details and see an example.</p>
   </introduction>
@@ -90,13 +90,16 @@ Each statement's justification must be clear and unambiguous in addition to bein
 	</blockquote>
 	<p>Note: You <em>don't</em> need to repeat the name of the definition multiple times in the same sentence. Use the word once, as long as it is clear which word you are using. Here's a poor example: <q>Because we are given that <m>n</m> is even, by definition of even there exists an integer <m>k</m> such that <m>n = 2k</m>.</q> Note that <q>even</q> is repeated unnecessarily. This is still a correct statement, just not well-written.</p>
 	</exercise>
+	
 	</subsection>
+	
+
 	
 	<subsection xml:id="pp-specs-additional">
 	<title>Additional writing conventions</title>
 	
 	<introduction>
-		<p>Every proof must do <em>most</em> of these, where <q>most</q> allows occasional errors in up to 3 items, or consistent errors in 1 item.</p>
+		<p>Every proof must do <em>most</em> of these, where <q>most</q> means occasional errors in up to 3 items, or consistent errors in 1 item.</p>
 		<p>One way to earn <q>excellent</q> is for a proof to do <em>all</em> of these thoroughly and with no noticeable omissions.</p>
 	</introduction>
 	

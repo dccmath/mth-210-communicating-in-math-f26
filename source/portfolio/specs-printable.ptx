@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<handout xml:id="pp-specs-printable">
+<title>Writing Conventions for MTH 210</title>
+<page>
+
+ <paragraphs>  
+  <title>Required writing conventions</title>
+  
+	<p>These are writing conventions that we will learn and use in MTH 210. Every writing revision and final revision of each portfolio should follow all of these.</p>
+	
+	<p>See the full document on Blackboard for detailed explanations and examples.</p>
+
+
+  
+  	<p>To earn <q>math &amp; writing successful</q> or better, a proof must do <em>all</em> of these:</p>
+	
+	<p><xref ref="wc-statement" text="type-local-title" /></p>
+	<p><xref ref="wc-assumptions" text="type-local-title" /></p>
+	<p><xref ref="wc-proof-method" text="type-local-title" /></p>
+	<p><xref ref="wc-justify" text="type-local-title" /></p>
+	<p><xref ref="wc-variables" text="type-local-title" /></p>
+	<p><xref ref="wc-definitions" text="type-local-title" /></p>
+
+</paragraphs>
+</page>
+	
+
+<page>
+<paragraphs>
+	<title>Additional writing conventions</title>
+	
+		<p>Every proof must do <em>most</em> of these, where <q>most</q> means occasional errors in up to 3 items, or consistent errors in 1 item.</p>
+		<p>One way to earn <q>excellent</q> is for a proof to do <em>all</em> of these thoroughly and with no noticeable omissions.</p>
+	
+	<p><xref ref="wc-overleaf" text="type-local-title" /></p>
+	<p><xref ref="wc-spelling" text="type-local-title" /></p>
+	<p><xref ref="wc-we" text="type-local-title" /></p>
+	<p><xref ref="wc-begin" text="type-local-title" /></p>
+	<p><xref ref="wc-formula" text="type-local-title" /></p>
+	<p><xref ref="wc-display" text="type-local-title" /></p>
+	<p><xref ref="wc-symbols" text="type-local-title" /></p>
+	<p><xref ref="wc-numbering" text="type-local-title" /></p>
+	<p><xref ref="wc-textbook-format" text="type-local-title" /></p>
+	<p><xref ref="wc-italics" text="type-local-title" /></p>
+	<p><xref ref="wc-summary" text="type-local-title" /></p>
+	
+</paragraphs>
+</page>	
+
+</handout>

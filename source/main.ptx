@@ -17,6 +17,7 @@
 		<title>Writing conventions</title>
 		
 		<xi:include href="./portfolio/specs.ptx"/>
+		<!-- <xi:include href="./portfolio/specs-printable.ptx"/> -->
 	</chapter>
 	
     <chapter xml:id="portfolio-problems">
