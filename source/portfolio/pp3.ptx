@@ -20,13 +20,13 @@
 	
 	<p>To earn <em>math successful</em>, your draft must do all of the following:</p>
 	<ol>
-		<li><p><em>Prove <xref ref="thm-pp3" /> using a know-show table or similar format.</em> Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication specifications nor typing them up yet.</p></li>
-		<li><p><em>Important: This is a biconditional statement!</em> Write a separet know-show table for each direction separately. When you do, be careful to include the correct hypotheses for each.</p></li>
+		<li><p><em>Prove <xref ref="thm-pp3" /> using a know-show table or similar format.</em> Include all key mathematical ideas and work so that you have a complete solution. Include just enough writing and detail to make it understandable. Drafts can be hand-written -- don't focus on communication guidelines nor typing them up yet.</p></li>
+		<li><p><em>Important: This is a biconditional statement!</em> Write a separate know-show table for each direction separately. When you do, be careful to include the correct hypotheses for each.</p></li>
 		<li><p><em>Include examples.</em> Include at least 2 examples for each direction, covering a variety of <m>n</m>-values. For each, show how you know the hypothesis and conclusion are true (see the <url href="https://www.overleaf.com/read/qndbyzmrxprd">sample portfolio solution</url> for an example of how to format these).</p></li>
 	</ol>
 	
-	<hint><p>When we write a three digit number such as 418, what does the 4 represent?  What does the 1 represent?  What about the 8? How can you write this out in one formula of the form <m>n = \ldots</m>?</p>
-	<p>For each direction, write out the hypotheses very carefully in the form of an equation. What could you add or subtract from both sides to obtain the kind of equation you need for your conclusion?</p>
+	<hint><p>When we write a three digit number such as 418, what does the 4 represent in terms of place value?  What about the 1, and the 8? How can you write this out in one formula of the form <m>n = \ldots</m>?</p>
+	<p>For each direction of the proof, write out the hypotheses very carefully in the form of an equation. What could you add or subtract from both sides to obtain the kind of equation you need for your conclusion?</p>
 	</hint>
   </subsection>
   
@@ -60,6 +60,7 @@
 	
 	<p><xref ref="wc-definitions" text="type-local-title" /></p>
 	
+	<p>Also follow <em>most</em> of the <xref ref="pp-specs-additional" text="title" /> (open the link to see what <q>most</q> means).</p>
   </subsection>
   
   <subsection>
