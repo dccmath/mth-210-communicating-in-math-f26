@@ -413,6 +413,15 @@ var ptx_lunr_docs = [
   "number": "19",
   "title": "",
   "body": "  Let be the set of all matrices with real number entries. The function defined by the rule is a bijection. (Notice that makes a very small but important change to where and are located.)   "
+},
+{
+  "id": "conditional-reminders",
+  "level": "1",
+  "url": "conditional-reminders.html",
+  "type": "Handout",
+  "number": "",
+  "title": "Conditional statement summary",
+  "body": " Conditional statement summary   Here are some reminders about conditional statements.   Here is our original conditional statement: If , then .  This statement is true (but in general, we can do everything below here even for false statements).   Converse  If then .  False - but it may be true or false, depending on the specific statement. In general, you can never trust the converse!  Contrapositive  If then .  True - the contrapositive is always equivalent to the original conditional statement.  Biconditional  if and only if .  False - this can also be written . If the original and converse are both true, this would be true too!  Negation  and .  False - always has the opposite truth value from the original statement.   "
 }
 ]
 
