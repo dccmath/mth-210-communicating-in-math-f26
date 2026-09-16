@@ -35,6 +35,11 @@
 
     </chapter>
 
+	<chapter xml:id="notes-reminders">
+	 <title>Notes and reminders</title>
+	 
+	 <xi:include href="./notes/conditional-reminders.ptx"/>
+	</chapter>
 	<!--
     <chapter xml:id="activities">
       <title>In-Class Activities</title>

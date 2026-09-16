@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<handout xml:id="conditional-reminders">
+  <title>Conditional statement summary</title>
+
+  <introduction>
+    <p>
+      Here are some reminders about conditional statements.
+    </p>
+  </introduction>
+
+
+  <p>Here is our original conditional statement: <q>If <m>x = 3</m>, then <m>x^{2} = 9</m>.</q></p>
+  
+  <p>This statement is true (but in general, we can do everything below here even for false statements).</p>
+  
+  <ul>
+  	<li><title>Converse</title> <p><q>If <m>x^{2} = 9</m> then <m>x = 3</m>.</q></p> <p>False - but it may be true or false, depending on the specific statement. In general, you can never trust the converse!</p></li>
+	
+	<li><title>Contrapositive</title> <p><q>If <m>x^{2} \neq 9</m> then <m>x \neq 3</m>.</q></p> <p>True - the contrapositive is always equivalent to the original conditional statement.</p></li>
+	
+	<li><title>Biconditional</title> <p><q><m>x = 3</m> if and only if <m>x^{2} = 9</m>.</q></p> <p>False - this can also be written <m>P \leftrightarrow Q</m>. If the original and converse are both true, this would be true too!</p></li>
+	
+	<li><title>Negation</title> <p><q><m>x = 3</m> and <m>x^{2} \neq 9</m>.</q></p> <p>False - always has the opposite truth value from the original statement.</p></li>
+  </ul>
+  
+</handout>
