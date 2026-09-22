@@ -6,7 +6,7 @@
   <introduction>
 	<conjecture>
 		<statement>
-			<p>For all <m>a, b \in \mathbb{Z}</m>, if <m>ab \not\equiv 0 \pmod{9}</m>, then <m>a \not\equiv 0 \pmod{9}</m> and <m>b \not\equiv 0 \pmod{9}</m>.</p>
+			<p>For all <m>a, b \in \mathbb{Z}</m>, if <m>ab \not\equiv 0 \pmod{9}</m>, then <m>a \not\equiv 0 \pmod{9}</m> or <m>b \not\equiv 0 \pmod{9}</m>.</p>
 		</statement>
 	</conjecture>
 	<conjecture>
@@ -78,7 +78,7 @@
 	
 	<ol>
 		<li><title>Polish</title><p>Polish your writing so that it follows <em>all</em> of the <xref ref="pp-specs-additional" text="title" /> thoroughly, with no noticeable omissions. Click or tap the link to see all of them. Note that <q>excellent</q> is <em>not</em> automatic upon revision, and relies on showing thorough attention to detail.</p></li>
-		<li><title>The Zero Product Property</title><p>In algebra class, you likely learned the <q>zero product property</q>. This says that if <m>xy = 0</m> then either <m>x = 0</m> or <m>y = 0</m> (you use this when factoring and solving quadratics, for example). But, that was in the real numbers! Your work above shows that the zero product property is <em>not</em> always true in modular arithmetic, and your counterexample should give you a hint of why this might be true with other moduli. To earn excellent, explain for which natural numbers <m>n</m> the following statement is true: <q>For all <m>a, b \in \mathbb{Z}</m>, if <m>ab \equiv 0 \pmod{n}</m>, then <m>a \equiv 0 \pmod{n}</m> or <m>b \equiv 0 \pmod{n}</m>.</q> This should include a clear statement of exactly which <m>n</m> it is true for, and either a proof or a clear explanation of why those <m>n</m> values work. (This is in <em>addition</em> to following all instructions for the writing revision -- in particular, your writing revision must include all required proofs, examples, and disproofs.)</p></li>
+		<li><title>The Zero Product Property</title><p>In algebra class, you likely learned the <q>zero product property</q>. This says that if <m>xy = 0</m> then either <m>x = 0</m> or <m>y = 0</m> (you use this when factoring and solving quadratics, for example). But, that was in the real numbers! Your work above shows that the zero product property is <em>not</em> always true in modular arithmetic, and your counterexample should give you a hint of why this might be true with other moduli. To earn excellent, explain for which natural numbers <m>n</m> the following statement is true: <q>For all <m>a, b \in \mathbb{Z}</m>, if <m>ab \equiv 0 \pmod{n}</m>, then <m>a \equiv 0 \pmod{n}</m> or <m>b \equiv 0 \pmod{n}</m>.</q> This should include a clear statement of exactly which <m>n</m> it is true for, and a proof of why those <m>n</m> values work. (This is in <em>addition</em> to following all instructions for the writing revision -- in particular, your writing revision must include all required proofs, examples, and disproofs.)</p></li>
 	</ol>
 	</p>
   </subsection>

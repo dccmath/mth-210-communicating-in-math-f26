@@ -135,7 +135,7 @@ Each statement's justification must be clear and unambiguous in addition to bein
 	</exercise>
 	
 	<exercise xml:id="wc-display"><title>Display (center) important equations and align <q><m>=</m></q> signs</title>
-		<p>This means putting important equations, centered, on their own line. Only center important equations that are key to the proof or its conclusion. Minor or <q>helper</q> equations can be left inline. If the left side of the equation does not change, don’t repeat it. For example:</p>
+		<p>This means putting important equations, centered, on their own line. Only center important equations that are key to the proof or its conclusion. Minor or <q>helper</q> equations can be left inline. Every equation should have both a left and right-hand side, but if the left side of the equation does not change, don’t repeat it. For example:</p>
 		<md>
 			<mrow>x \cdot y &amp;= (2m+1)(2n+1)</mrow>
 			<mrow>&amp; = 4mn + 2m + 2n + 1</mrow>
