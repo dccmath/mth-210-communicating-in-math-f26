@@ -6,7 +6,7 @@
   <introduction>
 	<theorem xml:id="thm-pp3">
 		<statement>
-			<p>Let <m>n</m> be a three digit natural number with hundreds digit <m>a</m>, tens digit <m>b</m>, and ones digit <m>c</m>. The number <m>n</m> is divisible by 11 if and only if <m>a+b-c</m> is divisible by 11.</p>
+			<p>Let <m>n</m> be a three digit natural number with hundreds digit <m>a</m>, tens digit <m>b</m>, and ones digit <m>c</m>. The number <m>n</m> is divisible by 11 if and only if <m>a-b+c</m> is divisible by 11.</p>
 		</statement>
 	</theorem>
   </introduction>
