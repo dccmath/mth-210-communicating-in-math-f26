@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<handout xml:id="properties-congruences">
+  <title>Properties of congruences</title>
+
+  <introduction>
+    <p>
+      These are properties of congruences (aka modular arithmetic). You may use these freely in proofs as long as you cite <q>properties of congruences</q>.
+    </p>
+    
+    <p>Throughout, let <m>n</m> be a natural number.</p>
+  </introduction>
+
+  <ul>
+  	<li><p>If <m>a \equiv b \pmod{n}</m> and <m>c \equiv d \pmod{n}</m>, then <md>(a+c) \equiv (b+d) \pmod{n}</md>.</p>
+		<p>Basically, this means that you can substitute any number with anything else that it's congruent to at any point in addition <m>\pmod{n}</m>.</p>
+		<p><em>Example:</em> We know that <m>5 \equiv 1 \pmod{4}</m> and <m>10 \equiv 2 \pmod{4}</m>, so <m>5 + 10 \equiv 1 + 2 \equiv 3 \pmod{4}</m>.</p>
+	</li>
+	<li><p>If <m>a \equiv b \pmod{n}</m> and <m>c \equiv d \pmod{n}</m>, then <md>ac \equiv bd \pmod{n}</md>.</p>
+		<p>Like above, this means that you can substitute any number with anything else that it's congruent to at any point in multiplication <m>\pmod{n}</m>.</p>
+		<p><em>Example:</em> We know that <m>5 \equiv 1 \pmod{4}</m> and <m>10 \equiv 2 \pmod{4}</m>, so <m>5 \cdot 10 \equiv 1 \cdot 2 \equiv 2 \pmod{4}</m>.</p>
+	</li>
+	<li><p>If <m>a \equiv b \pmod{n}</m>, then for each <m>m \in \mathbb{N}</m>, <md>a^{m} \equiv b^{m} \pmod{n}</md>.</p>
+		<p>This is a special case of multiplication, since exponents are repeated multiplication.</p>
+		<p><em>Example:</em> We know that <m>5 \equiv 1 \pmod{4}</m>, so <m>5^{99} \equiv 1^{99} \equiv 1 \pmod{4}</m>.</p>
+	</li>
+  </ul>
+  
+</handout>

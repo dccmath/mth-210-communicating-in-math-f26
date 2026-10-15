@@ -39,6 +39,7 @@
 	 <title>Notes and reminders</title>
 	 
 	 <xi:include href="./notes/conditional-reminders.ptx"/>
+	 <xi:include href="./notes/properties-congruences.ptx"/>
 	</chapter>
 	<!--
     <chapter xml:id="activities">
