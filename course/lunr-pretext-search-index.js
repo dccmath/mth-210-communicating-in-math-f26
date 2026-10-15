@@ -422,6 +422,15 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "Conditional statement summary",
   "body": " Conditional statement summary   Here are some reminders about conditional statements.   Here is our original conditional statement: If , then .  This statement is true (but in general, we can do everything below here even for false statements).   Converse  If then .  False - but it may be true or false, depending on the specific statement. In general, you can never trust the converse!  Contrapositive  If then .  True - the contrapositive is always equivalent to the original conditional statement.  Biconditional  if and only if .  False - this can also be written . If the original and converse are both true, this would be true too!  Negation  and .  False - always has the opposite truth value from the original statement.   "
+},
+{
+  "id": "properties-congruences",
+  "level": "1",
+  "url": "properties-congruences.html",
+  "type": "Handout",
+  "number": "",
+  "title": "Properties of congruences",
+  "body": " Properties of congruences   These are properties of congruences (aka modular arithmetic). You may use these freely in proofs as long as you cite properties of congruences .  Throughout, let be a natural number.    If and , then .  Basically, this means that you can substitute any number with anything else that it's congruent to at any point in addition .  Example: We know that and , so .   If and , then .  Like above, this means that you can substitute any number with anything else that it's congruent to at any point in multiplication .  Example: We know that and , so .   If , then for each , .  This is a special case of multiplication, since exponents are repeated multiplication.  Example: We know that , so .    "
 }
 ]
 
