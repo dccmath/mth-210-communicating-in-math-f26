@@ -430,7 +430,7 @@ var ptx_lunr_docs = [
   "type": "Handout",
   "number": "",
   "title": "Properties of congruences",
-  "body": " Properties of congruences   These are properties of congruences (aka modular arithmetic). You may use these freely in proofs as long as you cite properties of congruences .  Throughout, let be a natural number.    If and , then .  Basically, this means that you can substitute any number with anything else that it's congruent to at any point in addition .  Example: We know that and , so .   If and , then .  Like above, this means that you can substitute any number with anything else that it's congruent to at any point in multiplication .  Example: We know that and , so .   If , then for each , .  This is a special case of multiplication, since exponents are repeated multiplication.  Example: We know that , so .    "
+  "body": " Properties of congruences   These are properties of congruences (aka modular arithmetic). You may use these freely in proofs as long as you cite properties of congruences .  Throughout, let be a natural number and and be integers.    If and , then .  Basically, this means that you can substitute any number with anything else that it's congruent to at any point in addition .  Example: We know that and , so .   If and , then .  Like above, this means that you can substitute any number with anything else that it's congruent to at any point in multiplication .  Example: We know that and , so .   If , then for each , .  This is a special case of multiplication, since exponents are repeated multiplication.  Example: We know that , so .    "
 }
 ]
 
