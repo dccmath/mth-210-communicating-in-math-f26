@@ -8,7 +8,7 @@
       These are properties of congruences (aka modular arithmetic). You may use these freely in proofs as long as you cite <q>properties of congruences</q>.
     </p>
     
-    <p>Throughout, let <m>n</m> be a natural number.</p>
+    <p>Throughout, let <m>n</m> be a natural number and <m>a, b, c</m> and <m>d</m> be integers.</p>
   </introduction>
 
   <ul>
