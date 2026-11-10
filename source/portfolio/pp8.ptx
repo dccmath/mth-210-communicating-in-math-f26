@@ -6,10 +6,10 @@
   <introduction>
 	<conjecture>
 		<statement>
-			<p>Let <m>A</m> be the set of all integers <m>n</m> for which 4 divides <m>n-7</m>, and let <m>B</m> be the set of all integers that are congruent to 3 (mod 12). Then <m>A = B</m>.</p>
+			<p>Let <m>A</m> be the set of all integers that are congruent to 7 (mod 4), and let <m>B</m> be the set of all integers that are congruent to 3 (mod 12). Then <m>A = B</m>.</p>
 		</statement>
 	</conjecture>
-	<p><em>Special instructions:</em> If you choose this conjecture, provide examples of at least 5 numbers form each set in roster notation, and show briefly how you know that number is in that set. Then show thaty our conclusion is true.</p>
+	<p><em>Special instructions:</em> If you choose this conjecture, provide examples of at least 5 numbers from each set in roster notation, and show briefly how you know that number is in that set. Then show that your conclusion is true.</p>
 	<conjecture xml:id="pp-8-conj-2">
 		<statement>
 			<p>If <m>A</m> and <m>B</m> are subsets of some universal set <m>U</m>, then <m>(A \cup B) - (A \cap B) = (A - B) \cup (B - A)</m>.</p>
